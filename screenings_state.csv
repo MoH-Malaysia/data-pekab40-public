@@ -1050,7 +1050,7 @@ date,state,daily
 2022-02-26,Malaysia,155
 2022-02-27,Malaysia,125
 2022-02-28,Malaysia,349
-2022-03-01,Malaysia,299
+2022-03-01,Malaysia,300
 2022-03-02,Malaysia,343
 2022-03-03,Malaysia,285
 2022-03-04,Malaysia,325
@@ -1177,8 +1177,8 @@ date,state,daily
 2022-07-03,Malaysia,1007
 2022-07-04,Malaysia,1204
 2022-07-05,Malaysia,951
-2022-07-06,Malaysia,1281
-2022-07-07,Malaysia,937
+2022-07-06,Malaysia,1283
+2022-07-07,Malaysia,939
 2022-07-08,Malaysia,1069
 2022-07-09,Malaysia,304
 2022-07-10,Malaysia,183
@@ -1210,7 +1210,7 @@ date,state,daily
 2022-08-05,Malaysia,1070
 2022-08-06,Malaysia,696
 2022-08-07,Malaysia,675
-2022-08-08,Malaysia,924
+2022-08-08,Malaysia,925
 2022-08-09,Malaysia,1234
 2022-08-10,Malaysia,1079
 2022-08-11,Malaysia,1222
@@ -1219,19 +1219,19 @@ date,state,daily
 2022-08-14,Malaysia,1213
 2022-08-15,Malaysia,1033
 2022-08-16,Malaysia,1237
-2022-08-17,Malaysia,1212
+2022-08-17,Malaysia,1213
 2022-08-18,Malaysia,1317
 2022-08-19,Malaysia,1404
 2022-08-20,Malaysia,1094
 2022-08-21,Malaysia,1282
 2022-08-22,Malaysia,1349
-2022-08-23,Malaysia,1277
+2022-08-23,Malaysia,1278
 2022-08-24,Malaysia,1586
 2022-08-25,Malaysia,1357
 2022-08-26,Malaysia,1133
 2022-08-27,Malaysia,959
-2022-08-28,Malaysia,1079
-2022-08-29,Malaysia,1409
+2022-08-28,Malaysia,1080
+2022-08-29,Malaysia,1410
 2022-08-30,Malaysia,1129
 2022-08-31,Malaysia,556
 2022-09-01,Malaysia,1187
@@ -1240,43 +1240,44 @@ date,state,daily
 2022-09-04,Malaysia,684
 2022-09-05,Malaysia,956
 2022-09-06,Malaysia,1160
-2022-09-07,Malaysia,1091
-2022-09-08,Malaysia,1145
+2022-09-07,Malaysia,1092
+2022-09-08,Malaysia,1151
 2022-09-09,Malaysia,1136
-2022-09-10,Malaysia,958
-2022-09-11,Malaysia,861
-2022-09-12,Malaysia,1217
-2022-09-13,Malaysia,1640
-2022-09-14,Malaysia,1515
-2022-09-15,Malaysia,1431
+2022-09-10,Malaysia,966
+2022-09-11,Malaysia,881
+2022-09-12,Malaysia,1223
+2022-09-13,Malaysia,1643
+2022-09-14,Malaysia,1521
+2022-09-15,Malaysia,1433
 2022-09-16,Malaysia,296
 2022-09-17,Malaysia,1025
-2022-09-18,Malaysia,864
-2022-09-19,Malaysia,1328
-2022-09-20,Malaysia,1448
-2022-09-21,Malaysia,1329
-2022-09-22,Malaysia,1377
-2022-09-23,Malaysia,1299
-2022-09-24,Malaysia,1286
+2022-09-18,Malaysia,865
+2022-09-19,Malaysia,1332
+2022-09-20,Malaysia,1453
+2022-09-21,Malaysia,1331
+2022-09-22,Malaysia,1378
+2022-09-23,Malaysia,1306
+2022-09-24,Malaysia,1289
 2022-09-25,Malaysia,1288
-2022-09-26,Malaysia,1401
-2022-09-27,Malaysia,1459
-2022-09-28,Malaysia,1563
-2022-09-29,Malaysia,1706
-2022-09-30,Malaysia,1286
-2022-10-01,Malaysia,760
-2022-10-02,Malaysia,1165
-2022-10-03,Malaysia,1144
-2022-10-04,Malaysia,1448
-2022-10-05,Malaysia,1278
-2022-10-06,Malaysia,1178
-2022-10-07,Malaysia,933
-2022-10-08,Malaysia,857
-2022-10-09,Malaysia,531
-2022-10-10,Malaysia,533
-2022-10-11,Malaysia,661
-2022-10-12,Malaysia,535
-2022-10-13,Malaysia,112
+2022-09-26,Malaysia,1404
+2022-09-27,Malaysia,1481
+2022-09-28,Malaysia,1576
+2022-09-29,Malaysia,1711
+2022-09-30,Malaysia,1288
+2022-10-01,Malaysia,764
+2022-10-02,Malaysia,1173
+2022-10-03,Malaysia,1161
+2022-10-04,Malaysia,1521
+2022-10-05,Malaysia,1292
+2022-10-06,Malaysia,1216
+2022-10-07,Malaysia,997
+2022-10-08,Malaysia,880
+2022-10-09,Malaysia,573
+2022-10-10,Malaysia,578
+2022-10-11,Malaysia,832
+2022-10-12,Malaysia,824
+2022-10-13,Malaysia,547
+2022-10-14,Malaysia,90
 2019-04-15,Johor,0
 2019-04-15,Kedah,3
 2019-04-15,Kelantan,0
@@ -18103,7 +18104,7 @@ date,state,daily
 2022-03-01,Perlis,1
 2022-03-01,Pulau Pinang,14
 2022-03-01,Sabah,27
-2022-03-01,Sarawak,59
+2022-03-01,Sarawak,60
 2022-03-01,Selangor,31
 2022-03-01,Terengganu,2
 2022-03-01,W.P. Kuala Lumpur,13
@@ -20135,7 +20136,7 @@ date,state,daily
 2022-07-06,Perlis,4
 2022-07-06,Pulau Pinang,104
 2022-07-06,Sabah,161
-2022-07-06,Sarawak,232
+2022-07-06,Sarawak,234
 2022-07-06,Selangor,93
 2022-07-06,Terengganu,63
 2022-07-06,W.P. Kuala Lumpur,26
@@ -20151,7 +20152,7 @@ date,state,daily
 2022-07-07,Perlis,14
 2022-07-07,Pulau Pinang,6
 2022-07-07,Sabah,168
-2022-07-07,Sarawak,130
+2022-07-07,Sarawak,132
 2022-07-07,Selangor,52
 2022-07-07,Terengganu,14
 2022-07-07,W.P. Kuala Lumpur,8
@@ -20663,7 +20664,7 @@ date,state,daily
 2022-08-08,Perlis,16
 2022-08-08,Pulau Pinang,31
 2022-08-08,Sabah,153
-2022-08-08,Sarawak,113
+2022-08-08,Sarawak,114
 2022-08-08,Selangor,37
 2022-08-08,Terengganu,45
 2022-08-08,W.P. Kuala Lumpur,28
@@ -20807,7 +20808,7 @@ date,state,daily
 2022-08-17,Perlis,7
 2022-08-17,Pulau Pinang,37
 2022-08-17,Sabah,151
-2022-08-17,Sarawak,180
+2022-08-17,Sarawak,181
 2022-08-17,Selangor,74
 2022-08-17,Terengganu,71
 2022-08-17,W.P. Kuala Lumpur,15
@@ -20903,7 +20904,7 @@ date,state,daily
 2022-08-23,Perlis,11
 2022-08-23,Pulau Pinang,25
 2022-08-23,Sabah,279
-2022-08-23,Sarawak,184
+2022-08-23,Sarawak,185
 2022-08-23,Selangor,99
 2022-08-23,Terengganu,40
 2022-08-23,W.P. Kuala Lumpur,17
@@ -20982,7 +20983,7 @@ date,state,daily
 2022-08-28,Perak,163
 2022-08-28,Perlis,0
 2022-08-28,Pulau Pinang,35
-2022-08-28,Sabah,117
+2022-08-28,Sabah,118
 2022-08-28,Sarawak,18
 2022-08-28,Selangor,166
 2022-08-28,Terengganu,51
@@ -20993,7 +20994,7 @@ date,state,daily
 2022-08-29,Kedah,184
 2022-08-29,Kelantan,113
 2022-08-29,Melaka,22
-2022-08-29,Negeri Sembilan,67
+2022-08-29,Negeri Sembilan,68
 2022-08-29,Pahang,13
 2022-08-29,Perak,179
 2022-08-29,Perlis,13
@@ -21136,7 +21137,7 @@ date,state,daily
 2022-09-07,Johor,195
 2022-09-07,Kedah,39
 2022-09-07,Kelantan,113
-2022-09-07,Melaka,26
+2022-09-07,Melaka,27
 2022-09-07,Negeri Sembilan,81
 2022-09-07,Pahang,18
 2022-09-07,Perak,116
@@ -21159,7 +21160,7 @@ date,state,daily
 2022-09-08,Perlis,6
 2022-09-08,Pulau Pinang,29
 2022-09-08,Sabah,141
-2022-09-08,Sarawak,117
+2022-09-08,Sarawak,123
 2022-09-08,Selangor,55
 2022-09-08,Terengganu,14
 2022-09-08,W.P. Kuala Lumpur,39
@@ -21191,7 +21192,7 @@ date,state,daily
 2022-09-10,Perlis,0
 2022-09-10,Pulau Pinang,75
 2022-09-10,Sabah,149
-2022-09-10,Sarawak,118
+2022-09-10,Sarawak,126
 2022-09-10,Selangor,234
 2022-09-10,Terengganu,9
 2022-09-10,W.P. Kuala Lumpur,61
@@ -21207,7 +21208,7 @@ date,state,daily
 2022-09-11,Perlis,0
 2022-09-11,Pulau Pinang,112
 2022-09-11,Sabah,68
-2022-09-11,Sarawak,93
+2022-09-11,Sarawak,113
 2022-09-11,Selangor,155
 2022-09-11,Terengganu,6
 2022-09-11,W.P. Kuala Lumpur,19
@@ -21223,7 +21224,7 @@ date,state,daily
 2022-09-12,Perlis,9
 2022-09-12,Pulau Pinang,32
 2022-09-12,Sabah,111
-2022-09-12,Sarawak,144
+2022-09-12,Sarawak,150
 2022-09-12,Selangor,58
 2022-09-12,Terengganu,92
 2022-09-12,W.P. Kuala Lumpur,12
@@ -21239,7 +21240,7 @@ date,state,daily
 2022-09-13,Perlis,2
 2022-09-13,Pulau Pinang,27
 2022-09-13,Sabah,142
-2022-09-13,Sarawak,284
+2022-09-13,Sarawak,287
 2022-09-13,Selangor,145
 2022-09-13,Terengganu,44
 2022-09-13,W.P. Kuala Lumpur,19
@@ -21253,9 +21254,9 @@ date,state,daily
 2022-09-14,Pahang,17
 2022-09-14,Perak,127
 2022-09-14,Perlis,2
-2022-09-14,Pulau Pinang,52
+2022-09-14,Pulau Pinang,53
 2022-09-14,Sabah,201
-2022-09-14,Sarawak,215
+2022-09-14,Sarawak,220
 2022-09-14,Selangor,170
 2022-09-14,Terengganu,53
 2022-09-14,W.P. Kuala Lumpur,7
@@ -21271,7 +21272,7 @@ date,state,daily
 2022-09-15,Perlis,9
 2022-09-15,Pulau Pinang,36
 2022-09-15,Sabah,162
-2022-09-15,Sarawak,226
+2022-09-15,Sarawak,228
 2022-09-15,Selangor,117
 2022-09-15,Terengganu,29
 2022-09-15,W.P. Kuala Lumpur,29
@@ -21319,7 +21320,7 @@ date,state,daily
 2022-09-18,Perlis,1
 2022-09-18,Pulau Pinang,23
 2022-09-18,Sabah,95
-2022-09-18,Sarawak,109
+2022-09-18,Sarawak,110
 2022-09-18,Selangor,194
 2022-09-18,Terengganu,73
 2022-09-18,W.P. Kuala Lumpur,12
@@ -21329,30 +21330,30 @@ date,state,daily
 2022-09-19,Kedah,196
 2022-09-19,Kelantan,117
 2022-09-19,Melaka,33
-2022-09-19,Negeri Sembilan,86
+2022-09-19,Negeri Sembilan,88
 2022-09-19,Pahang,10
-2022-09-19,Perak,71
+2022-09-19,Perak,72
 2022-09-19,Perlis,2
 2022-09-19,Pulau Pinang,44
 2022-09-19,Sabah,180
-2022-09-19,Sarawak,187
+2022-09-19,Sarawak,188
 2022-09-19,Selangor,80
 2022-09-19,Terengganu,76
 2022-09-19,W.P. Kuala Lumpur,18
 2022-09-19,W.P. Labuan,2
 2022-09-19,W.P. Putrajaya,1
 2022-09-20,Johor,140
-2022-09-20,Kedah,224
+2022-09-20,Kedah,225
 2022-09-20,Kelantan,111
 2022-09-20,Melaka,26
-2022-09-20,Negeri Sembilan,41
+2022-09-20,Negeri Sembilan,44
 2022-09-20,Pahang,30
 2022-09-20,Perak,162
 2022-09-20,Perlis,10
 2022-09-20,Pulau Pinang,30
 2022-09-20,Sabah,215
 2022-09-20,Sarawak,301
-2022-09-20,Selangor,79
+2022-09-20,Selangor,80
 2022-09-20,Terengganu,51
 2022-09-20,W.P. Kuala Lumpur,28
 2022-09-20,W.P. Labuan,0
@@ -21367,7 +21368,7 @@ date,state,daily
 2022-09-21,Perlis,9
 2022-09-21,Pulau Pinang,53
 2022-09-21,Sabah,192
-2022-09-21,Sarawak,263
+2022-09-21,Sarawak,265
 2022-09-21,Selangor,72
 2022-09-21,Terengganu,63
 2022-09-21,W.P. Kuala Lumpur,31
@@ -21377,7 +21378,7 @@ date,state,daily
 2022-09-22,Kedah,236
 2022-09-22,Kelantan,120
 2022-09-22,Melaka,46
-2022-09-22,Negeri Sembilan,76
+2022-09-22,Negeri Sembilan,77
 2022-09-22,Pahang,13
 2022-09-22,Perak,199
 2022-09-22,Perlis,4
@@ -21399,7 +21400,7 @@ date,state,daily
 2022-09-23,Perlis,20
 2022-09-23,Pulau Pinang,47
 2022-09-23,Sabah,112
-2022-09-23,Sarawak,244
+2022-09-23,Sarawak,251
 2022-09-23,Selangor,129
 2022-09-23,Terengganu,31
 2022-09-23,W.P. Kuala Lumpur,68
@@ -21415,7 +21416,7 @@ date,state,daily
 2022-09-24,Perlis,0
 2022-09-24,Pulau Pinang,19
 2022-09-24,Sabah,176
-2022-09-24,Sarawak,130
+2022-09-24,Sarawak,133
 2022-09-24,Selangor,236
 2022-09-24,Terengganu,50
 2022-09-24,W.P. Kuala Lumpur,49
@@ -21438,7 +21439,7 @@ date,state,daily
 2022-09-25,W.P. Labuan,0
 2022-09-25,W.P. Putrajaya,0
 2022-09-26,Johor,284
-2022-09-26,Kedah,274
+2022-09-26,Kedah,275
 2022-09-26,Kelantan,118
 2022-09-26,Melaka,17
 2022-09-26,Negeri Sembilan,57
@@ -21447,7 +21448,7 @@ date,state,daily
 2022-09-26,Perlis,6
 2022-09-26,Pulau Pinang,32
 2022-09-26,Sabah,166
-2022-09-26,Sarawak,114
+2022-09-26,Sarawak,116
 2022-09-26,Selangor,113
 2022-09-26,Terengganu,90
 2022-09-26,W.P. Kuala Lumpur,36
@@ -21463,7 +21464,7 @@ date,state,daily
 2022-09-27,Perlis,3
 2022-09-27,Pulau Pinang,96
 2022-09-27,Sabah,162
-2022-09-27,Sarawak,192
+2022-09-27,Sarawak,214
 2022-09-27,Selangor,130
 2022-09-27,Terengganu,97
 2022-09-27,W.P. Kuala Lumpur,10
@@ -21473,30 +21474,30 @@ date,state,daily
 2022-09-28,Kedah,170
 2022-09-28,Kelantan,146
 2022-09-28,Melaka,27
-2022-09-28,Negeri Sembilan,132
+2022-09-28,Negeri Sembilan,133
 2022-09-28,Pahang,27
 2022-09-28,Perak,131
 2022-09-28,Perlis,5
 2022-09-28,Pulau Pinang,38
 2022-09-28,Sabah,138
-2022-09-28,Sarawak,254
+2022-09-28,Sarawak,265
 2022-09-28,Selangor,79
 2022-09-28,Terengganu,66
-2022-09-28,W.P. Kuala Lumpur,29
+2022-09-28,W.P. Kuala Lumpur,30
 2022-09-28,W.P. Labuan,1
 2022-09-28,W.P. Putrajaya,0
-2022-09-29,Johor,209
+2022-09-29,Johor,212
 2022-09-29,Kedah,231
 2022-09-29,Kelantan,138
 2022-09-29,Melaka,22
 2022-09-29,Negeri Sembilan,201
 2022-09-29,Pahang,35
-2022-09-29,Perak,192
+2022-09-29,Perak,193
 2022-09-29,Perlis,8
 2022-09-29,Pulau Pinang,97
 2022-09-29,Sabah,201
 2022-09-29,Sarawak,153
-2022-09-29,Selangor,147
+2022-09-29,Selangor,148
 2022-09-29,Terengganu,47
 2022-09-29,W.P. Kuala Lumpur,21
 2022-09-29,W.P. Labuan,4
@@ -21505,19 +21506,19 @@ date,state,daily
 2022-09-30,Kedah,22
 2022-09-30,Kelantan,45
 2022-09-30,Melaka,35
-2022-09-30,Negeri Sembilan,200
+2022-09-30,Negeri Sembilan,201
 2022-09-30,Pahang,16
 2022-09-30,Perak,241
 2022-09-30,Perlis,9
 2022-09-30,Pulau Pinang,38
 2022-09-30,Sabah,176
 2022-09-30,Sarawak,231
-2022-09-30,Selangor,110
+2022-09-30,Selangor,111
 2022-09-30,Terengganu,2
 2022-09-30,W.P. Kuala Lumpur,36
 2022-09-30,W.P. Labuan,0
 2022-09-30,W.P. Putrajaya,1
-2022-10-01,Johor,147
+2022-10-01,Johor,150
 2022-10-01,Kedah,7
 2022-10-01,Kelantan,165
 2022-10-01,Melaka,7
@@ -21530,10 +21531,10 @@ date,state,daily
 2022-10-01,Sarawak,26
 2022-10-01,Selangor,151
 2022-10-01,Terengganu,66
-2022-10-01,W.P. Kuala Lumpur,22
+2022-10-01,W.P. Kuala Lumpur,23
 2022-10-01,W.P. Labuan,0
 2022-10-01,W.P. Putrajaya,0
-2022-10-02,Johor,131
+2022-10-02,Johor,136
 2022-10-02,Kedah,161
 2022-10-02,Kelantan,134
 2022-10-02,Melaka,15
@@ -21542,62 +21543,62 @@ date,state,daily
 2022-10-02,Perak,66
 2022-10-02,Perlis,0
 2022-10-02,Pulau Pinang,62
-2022-10-02,Sabah,119
+2022-10-02,Sabah,122
 2022-10-02,Sarawak,11
 2022-10-02,Selangor,325
 2022-10-02,Terengganu,112
 2022-10-02,W.P. Kuala Lumpur,5
 2022-10-02,W.P. Labuan,0
 2022-10-02,W.P. Putrajaya,1
-2022-10-03,Johor,135
+2022-10-03,Johor,139
 2022-10-03,Kedah,184
 2022-10-03,Kelantan,121
 2022-10-03,Melaka,28
 2022-10-03,Negeri Sembilan,56
 2022-10-03,Pahang,13
-2022-10-03,Perak,86
+2022-10-03,Perak,88
 2022-10-03,Perlis,0
 2022-10-03,Pulau Pinang,53
-2022-10-03,Sabah,110
+2022-10-03,Sabah,121
 2022-10-03,Sarawak,186
 2022-10-03,Selangor,68
 2022-10-03,Terengganu,43
 2022-10-03,W.P. Kuala Lumpur,60
 2022-10-03,W.P. Labuan,1
 2022-10-03,W.P. Putrajaya,0
-2022-10-04,Johor,126
+2022-10-04,Johor,134
 2022-10-04,Kedah,174
 2022-10-04,Kelantan,144
-2022-10-04,Melaka,30
+2022-10-04,Melaka,31
 2022-10-04,Negeri Sembilan,46
 2022-10-04,Pahang,25
 2022-10-04,Perak,115
 2022-10-04,Perlis,8
-2022-10-04,Pulau Pinang,45
-2022-10-04,Sabah,243
-2022-10-04,Sarawak,272
+2022-10-04,Pulau Pinang,46
+2022-10-04,Sabah,305
+2022-10-04,Sarawak,273
 2022-10-04,Selangor,125
 2022-10-04,Terengganu,56
 2022-10-04,W.P. Kuala Lumpur,39
 2022-10-04,W.P. Labuan,0
 2022-10-04,W.P. Putrajaya,0
-2022-10-05,Johor,125
+2022-10-05,Johor,126
 2022-10-05,Kedah,147
 2022-10-05,Kelantan,127
-2022-10-05,Melaka,29
+2022-10-05,Melaka,30
 2022-10-05,Negeri Sembilan,65
 2022-10-05,Pahang,22
-2022-10-05,Perak,158
+2022-10-05,Perak,159
 2022-10-05,Perlis,7
 2022-10-05,Pulau Pinang,87
 2022-10-05,Sabah,89
-2022-10-05,Sarawak,212
-2022-10-05,Selangor,111
+2022-10-05,Sarawak,219
+2022-10-05,Selangor,115
 2022-10-05,Terengganu,47
 2022-10-05,W.P. Kuala Lumpur,51
 2022-10-05,W.P. Labuan,1
 2022-10-05,W.P. Putrajaya,0
-2022-10-06,Johor,158
+2022-10-06,Johor,168
 2022-10-06,Kedah,185
 2022-10-06,Kelantan,145
 2022-10-06,Melaka,39
@@ -21607,121 +21608,137 @@ date,state,daily
 2022-10-06,Perlis,7
 2022-10-06,Pulau Pinang,46
 2022-10-06,Sabah,98
-2022-10-06,Sarawak,103
-2022-10-06,Selangor,99
+2022-10-06,Sarawak,129
+2022-10-06,Selangor,101
 2022-10-06,Terengganu,16
 2022-10-06,W.P. Kuala Lumpur,15
 2022-10-06,W.P. Labuan,1
 2022-10-06,W.P. Putrajaya,2
-2022-10-07,Johor,128
+2022-10-07,Johor,129
 2022-10-07,Kedah,29
 2022-10-07,Kelantan,41
 2022-10-07,Melaka,32
-2022-10-07,Negeri Sembilan,54
-2022-10-07,Pahang,7
-2022-10-07,Perak,214
+2022-10-07,Negeri Sembilan,56
+2022-10-07,Pahang,9
+2022-10-07,Perak,221
 2022-10-07,Perlis,19
 2022-10-07,Pulau Pinang,46
-2022-10-07,Sabah,90
-2022-10-07,Sarawak,132
+2022-10-07,Sabah,92
+2022-10-07,Sarawak,182
 2022-10-07,Selangor,98
 2022-10-07,Terengganu,21
 2022-10-07,W.P. Kuala Lumpur,20
 2022-10-07,W.P. Labuan,0
 2022-10-07,W.P. Putrajaya,2
-2022-10-08,Johor,41
+2022-10-08,Johor,42
 2022-10-08,Kedah,83
 2022-10-08,Kelantan,139
 2022-10-08,Melaka,12
-2022-10-08,Negeri Sembilan,14
+2022-10-08,Negeri Sembilan,15
 2022-10-08,Pahang,24
-2022-10-08,Perak,37
+2022-10-08,Perak,39
 2022-10-08,Perlis,0
 2022-10-08,Pulau Pinang,65
-2022-10-08,Sabah,9
-2022-10-08,Sarawak,10
+2022-10-08,Sabah,12
+2022-10-08,Sarawak,26
 2022-10-08,Selangor,250
 2022-10-08,Terengganu,149
 2022-10-08,W.P. Kuala Lumpur,24
 2022-10-08,W.P. Labuan,0
 2022-10-08,W.P. Putrajaya,0
-2022-10-09,Johor,66
-2022-10-09,Kedah,55
+2022-10-09,Johor,67
+2022-10-09,Kedah,57
 2022-10-09,Kelantan,8
 2022-10-09,Melaka,0
 2022-10-09,Negeri Sembilan,0
 2022-10-09,Pahang,37
 2022-10-09,Perak,4
 2022-10-09,Perlis,0
-2022-10-09,Pulau Pinang,36
+2022-10-09,Pulau Pinang,37
 2022-10-09,Sabah,0
-2022-10-09,Sarawak,9
+2022-10-09,Sarawak,47
 2022-10-09,Selangor,270
 2022-10-09,Terengganu,42
 2022-10-09,W.P. Kuala Lumpur,4
 2022-10-09,W.P. Labuan,0
 2022-10-09,W.P. Putrajaya,0
-2022-10-10,Johor,79
-2022-10-10,Kedah,113
+2022-10-10,Johor,86
+2022-10-10,Kedah,118
 2022-10-10,Kelantan,115
 2022-10-10,Melaka,13
 2022-10-10,Negeri Sembilan,1
 2022-10-10,Pahang,50
-2022-10-10,Perak,10
+2022-10-10,Perak,11
 2022-10-10,Perlis,1
-2022-10-10,Pulau Pinang,10
-2022-10-10,Sabah,8
-2022-10-10,Sarawak,13
-2022-10-10,Selangor,68
+2022-10-10,Pulau Pinang,12
+2022-10-10,Sabah,32
+2022-10-10,Sarawak,15
+2022-10-10,Selangor,72
 2022-10-10,Terengganu,43
 2022-10-10,W.P. Kuala Lumpur,9
 2022-10-10,W.P. Labuan,0
 2022-10-10,W.P. Putrajaya,0
-2022-10-11,Johor,68
-2022-10-11,Kedah,104
+2022-10-11,Johor,100
+2022-10-11,Kedah,111
 2022-10-11,Kelantan,143
 2022-10-11,Melaka,29
-2022-10-11,Negeri Sembilan,29
-2022-10-11,Pahang,18
-2022-10-11,Perak,52
+2022-10-11,Negeri Sembilan,45
+2022-10-11,Pahang,22
+2022-10-11,Perak,90
 2022-10-11,Perlis,5
-2022-10-11,Pulau Pinang,18
-2022-10-11,Sabah,33
-2022-10-11,Sarawak,39
-2022-10-11,Selangor,63
-2022-10-11,Terengganu,33
+2022-10-11,Pulau Pinang,23
+2022-10-11,Sabah,64
+2022-10-11,Sarawak,65
+2022-10-11,Selangor,74
+2022-10-11,Terengganu,34
 2022-10-11,W.P. Kuala Lumpur,25
 2022-10-11,W.P. Labuan,2
 2022-10-11,W.P. Putrajaya,0
-2022-10-12,Johor,49
-2022-10-12,Kedah,113
-2022-10-12,Kelantan,132
-2022-10-12,Melaka,13
-2022-10-12,Negeri Sembilan,5
-2022-10-12,Pahang,24
-2022-10-12,Perak,36
-2022-10-12,Perlis,0
-2022-10-12,Pulau Pinang,7
-2022-10-12,Sabah,30
-2022-10-12,Sarawak,43
-2022-10-12,Selangor,43
-2022-10-12,Terengganu,29
-2022-10-12,W.P. Kuala Lumpur,11
-2022-10-12,W.P. Labuan,0
+2022-10-12,Johor,132
+2022-10-12,Kedah,134
+2022-10-12,Kelantan,133
+2022-10-12,Melaka,18
+2022-10-12,Negeri Sembilan,22
+2022-10-12,Pahang,27
+2022-10-12,Perak,108
+2022-10-12,Perlis,4
+2022-10-12,Pulau Pinang,14
+2022-10-12,Sabah,68
+2022-10-12,Sarawak,47
+2022-10-12,Selangor,59
+2022-10-12,Terengganu,40
+2022-10-12,W.P. Kuala Lumpur,17
+2022-10-12,W.P. Labuan,1
 2022-10-12,W.P. Putrajaya,0
-2022-10-13,Johor,5
-2022-10-13,Kedah,42
-2022-10-13,Kelantan,28
-2022-10-13,Melaka,1
-2022-10-13,Negeri Sembilan,0
-2022-10-13,Pahang,1
-2022-10-13,Perak,1
+2022-10-13,Johor,95
+2022-10-13,Kedah,146
+2022-10-13,Kelantan,58
+2022-10-13,Melaka,19
+2022-10-13,Negeri Sembilan,23
+2022-10-13,Pahang,5
+2022-10-13,Perak,43
 2022-10-13,Perlis,0
-2022-10-13,Pulau Pinang,15
-2022-10-13,Sabah,0
-2022-10-13,Sarawak,9
-2022-10-13,Selangor,10
-2022-10-13,Terengganu,0
-2022-10-13,W.P. Kuala Lumpur,0
+2022-10-13,Pulau Pinang,25
+2022-10-13,Sabah,13
+2022-10-13,Sarawak,62
+2022-10-13,Selangor,37
+2022-10-13,Terengganu,9
+2022-10-13,W.P. Kuala Lumpur,12
 2022-10-13,W.P. Labuan,0
 2022-10-13,W.P. Putrajaya,0
+2022-10-14,Johor,3
+2022-10-14,Kedah,4
+2022-10-14,Kelantan,0
+2022-10-14,Melaka,0
+2022-10-14,Negeri Sembilan,0
+2022-10-14,Pahang,2
+2022-10-14,Perak,5
+2022-10-14,Perlis,0
+2022-10-14,Pulau Pinang,5
+2022-10-14,Sabah,2
+2022-10-14,Sarawak,66
+2022-10-14,Selangor,3
+2022-10-14,Terengganu,0
+2022-10-14,W.P. Kuala Lumpur,0
+2022-10-14,W.P. Labuan,0
+2022-10-14,W.P. Putrajaya,0
