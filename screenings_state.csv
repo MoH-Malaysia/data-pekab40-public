@@ -1242,7 +1242,7 @@ date,state,daily
 2022-09-06,Malaysia,1173
 2022-09-07,Malaysia,1105
 2022-09-08,Malaysia,1170
-2022-09-09,Malaysia,1144
+2022-09-09,Malaysia,1145
 2022-09-10,Malaysia,968
 2022-09-11,Malaysia,888
 2022-09-12,Malaysia,1228
@@ -1329,7 +1329,7 @@ date,state,daily
 2022-12-02,Malaysia,779
 2022-12-03,Malaysia,541
 2022-12-04,Malaysia,770
-2022-12-05,Malaysia,945
+2022-12-05,Malaysia,946
 2022-12-06,Malaysia,1149
 2022-12-07,Malaysia,1072
 2022-12-08,Malaysia,1144
@@ -1338,11 +1338,11 @@ date,state,daily
 2022-12-11,Malaysia,477
 2022-12-12,Malaysia,947
 2022-12-13,Malaysia,1150
-2022-12-14,Malaysia,1262
+2022-12-14,Malaysia,1263
 2022-12-15,Malaysia,1355
 2022-12-16,Malaysia,836
 2022-12-17,Malaysia,788
-2022-12-18,Malaysia,729
+2022-12-18,Malaysia,730
 2022-12-19,Malaysia,867
 2022-12-20,Malaysia,864
 2022-12-21,Malaysia,846
@@ -1351,15 +1351,15 @@ date,state,daily
 2022-12-24,Malaysia,148
 2022-12-25,Malaysia,74
 2022-12-26,Malaysia,317
-2022-12-27,Malaysia,632
+2022-12-27,Malaysia,633
 2022-12-28,Malaysia,761
 2022-12-29,Malaysia,754
 2022-12-30,Malaysia,463
 2022-12-31,Malaysia,393
 2023-01-01,Malaysia,156
 2023-01-02,Malaysia,470
-2023-01-03,Malaysia,765
-2023-01-04,Malaysia,904
+2023-01-03,Malaysia,766
+2023-01-04,Malaysia,906
 2023-01-05,Malaysia,1075
 2023-01-06,Malaysia,722
 2023-01-07,Malaysia,390
@@ -1371,42 +1371,43 @@ date,state,daily
 2023-01-13,Malaysia,809
 2023-01-14,Malaysia,584
 2023-01-15,Malaysia,788
-2023-01-16,Malaysia,1199
-2023-01-17,Malaysia,1222
+2023-01-16,Malaysia,1200
+2023-01-17,Malaysia,1223
 2023-01-18,Malaysia,1350
-2023-01-19,Malaysia,1343
-2023-01-20,Malaysia,561
+2023-01-19,Malaysia,1344
+2023-01-20,Malaysia,564
 2023-01-21,Malaysia,118
 2023-01-22,Malaysia,26
 2023-01-23,Malaysia,60
-2023-01-24,Malaysia,368
-2023-01-25,Malaysia,901
-2023-01-26,Malaysia,1087
-2023-01-27,Malaysia,894
+2023-01-24,Malaysia,370
+2023-01-25,Malaysia,904
+2023-01-26,Malaysia,1088
+2023-01-27,Malaysia,895
 2023-01-28,Malaysia,583
-2023-01-29,Malaysia,808
-2023-01-30,Malaysia,1115
-2023-01-31,Malaysia,1232
-2023-02-01,Malaysia,1234
+2023-01-29,Malaysia,809
+2023-01-30,Malaysia,1116
+2023-01-31,Malaysia,1233
+2023-02-01,Malaysia,1235
 2023-02-02,Malaysia,1437
 2023-02-03,Malaysia,849
 2023-02-04,Malaysia,525
-2023-02-05,Malaysia,589
-2023-02-06,Malaysia,895
-2023-02-07,Malaysia,1250
-2023-02-08,Malaysia,1223
-2023-02-09,Malaysia,1333
-2023-02-10,Malaysia,887
-2023-02-11,Malaysia,511
-2023-02-12,Malaysia,906
-2023-02-13,Malaysia,1175
-2023-02-14,Malaysia,1331
-2023-02-15,Malaysia,1425
-2023-02-16,Malaysia,1054
-2023-02-17,Malaysia,571
-2023-02-18,Malaysia,258
-2023-02-19,Malaysia,378
-2023-02-20,Malaysia,116
+2023-02-05,Malaysia,590
+2023-02-06,Malaysia,900
+2023-02-07,Malaysia,1257
+2023-02-08,Malaysia,1227
+2023-02-09,Malaysia,1336
+2023-02-10,Malaysia,896
+2023-02-11,Malaysia,513
+2023-02-12,Malaysia,914
+2023-02-13,Malaysia,1191
+2023-02-14,Malaysia,1338
+2023-02-15,Malaysia,1446
+2023-02-16,Malaysia,1155
+2023-02-17,Malaysia,667
+2023-02-18,Malaysia,355
+2023-02-19,Malaysia,492
+2023-02-20,Malaysia,355
+2023-02-21,Malaysia,126
 2019-04-15,Johor,0
 2019-04-15,Kedah,3
 2019-04-15,Kelantan,0
@@ -21305,7 +21306,7 @@ date,state,daily
 2022-09-09,Perlis,11
 2022-09-09,Pulau Pinang,19
 2022-09-09,Sabah,261
-2022-09-09,Sarawak,261
+2022-09-09,Sarawak,262
 2022-09-09,Selangor,88
 2022-09-09,Terengganu,1
 2022-09-09,W.P. Kuala Lumpur,20
@@ -22696,7 +22697,7 @@ date,state,daily
 2022-12-05,Perak,53
 2022-12-05,Perlis,8
 2022-12-05,Pulau Pinang,35
-2022-12-05,Sabah,56
+2022-12-05,Sabah,57
 2022-12-05,Sarawak,141
 2022-12-05,Selangor,55
 2022-12-05,Terengganu,45
@@ -22831,7 +22832,7 @@ date,state,daily
 2022-12-13,W.P. Kuala Lumpur,22
 2022-12-13,W.P. Labuan,0
 2022-12-13,W.P. Putrajaya,0
-2022-12-14,Johor,263
+2022-12-14,Johor,264
 2022-12-14,Kedah,172
 2022-12-14,Kelantan,116
 2022-12-14,Melaka,21
@@ -22906,7 +22907,7 @@ date,state,daily
 2022-12-18,Pulau Pinang,6
 2022-12-18,Sabah,4
 2022-12-18,Sarawak,103
-2022-12-18,Selangor,252
+2022-12-18,Selangor,253
 2022-12-18,Terengganu,29
 2022-12-18,W.P. Kuala Lumpur,4
 2022-12-18,W.P. Labuan,0
@@ -23043,7 +23044,7 @@ date,state,daily
 2022-12-27,Kedah,86
 2022-12-27,Kelantan,113
 2022-12-27,Melaka,19
-2022-12-27,Negeri Sembilan,42
+2022-12-27,Negeri Sembilan,43
 2022-12-27,Pahang,14
 2022-12-27,Perak,56
 2022-12-27,Perlis,5
@@ -23155,7 +23156,7 @@ date,state,daily
 2023-01-03,Kedah,126
 2023-01-03,Kelantan,108
 2023-01-03,Melaka,15
-2023-01-03,Negeri Sembilan,40
+2023-01-03,Negeri Sembilan,41
 2023-01-03,Pahang,16
 2023-01-03,Perak,59
 2023-01-03,Perlis,7
@@ -23177,7 +23178,7 @@ date,state,daily
 2023-01-04,Perlis,2
 2023-01-04,Pulau Pinang,28
 2023-01-04,Sabah,90
-2023-01-04,Sarawak,118
+2023-01-04,Sarawak,120
 2023-01-04,Selangor,80
 2023-01-04,Terengganu,75
 2023-01-04,W.P. Kuala Lumpur,6
@@ -23363,7 +23364,7 @@ date,state,daily
 2023-01-16,Kedah,209
 2023-01-16,Kelantan,170
 2023-01-16,Melaka,17
-2023-01-16,Negeri Sembilan,55
+2023-01-16,Negeri Sembilan,56
 2023-01-16,Pahang,8
 2023-01-16,Perak,52
 2023-01-16,Perlis,6
@@ -23379,7 +23380,7 @@ date,state,daily
 2023-01-17,Kedah,193
 2023-01-17,Kelantan,181
 2023-01-17,Melaka,20
-2023-01-17,Negeri Sembilan,52
+2023-01-17,Negeri Sembilan,53
 2023-01-17,Pahang,10
 2023-01-17,Perak,65
 2023-01-17,Perlis,4
@@ -23418,18 +23419,18 @@ date,state,daily
 2023-01-19,Pulau Pinang,48
 2023-01-19,Sabah,136
 2023-01-19,Sarawak,141
-2023-01-19,Selangor,90
+2023-01-19,Selangor,91
 2023-01-19,Terengganu,98
 2023-01-19,W.P. Kuala Lumpur,25
 2023-01-19,W.P. Labuan,0
 2023-01-19,W.P. Putrajaya,1
-2023-01-20,Johor,64
+2023-01-20,Johor,65
 2023-01-20,Kedah,61
 2023-01-20,Kelantan,1
 2023-01-20,Melaka,26
 2023-01-20,Negeri Sembilan,37
 2023-01-20,Pahang,12
-2023-01-20,Perak,162
+2023-01-20,Perak,164
 2023-01-20,Perlis,12
 2023-01-20,Pulau Pinang,28
 2023-01-20,Sabah,37
@@ -23487,8 +23488,8 @@ date,state,daily
 2023-01-23,W.P. Kuala Lumpur,3
 2023-01-23,W.P. Labuan,0
 2023-01-23,W.P. Putrajaya,2
-2023-01-24,Johor,37
-2023-01-24,Kedah,49
+2023-01-24,Johor,38
+2023-01-24,Kedah,50
 2023-01-24,Kelantan,114
 2023-01-24,Melaka,2
 2023-01-24,Negeri Sembilan,2
@@ -23503,7 +23504,7 @@ date,state,daily
 2023-01-24,W.P. Kuala Lumpur,4
 2023-01-24,W.P. Labuan,0
 2023-01-24,W.P. Putrajaya,0
-2023-01-25,Johor,88
+2023-01-25,Johor,91
 2023-01-25,Kedah,90
 2023-01-25,Kelantan,160
 2023-01-25,Melaka,26
@@ -23519,7 +23520,7 @@ date,state,daily
 2023-01-25,W.P. Kuala Lumpur,14
 2023-01-25,W.P. Labuan,2
 2023-01-25,W.P. Putrajaya,2
-2023-01-26,Johor,135
+2023-01-26,Johor,136
 2023-01-26,Kedah,186
 2023-01-26,Kelantan,153
 2023-01-26,Melaka,21
@@ -23541,7 +23542,7 @@ date,state,daily
 2023-01-27,Melaka,18
 2023-01-27,Negeri Sembilan,108
 2023-01-27,Pahang,13
-2023-01-27,Perak,130
+2023-01-27,Perak,131
 2023-01-27,Perlis,14
 2023-01-27,Pulau Pinang,36
 2023-01-27,Sabah,103
@@ -23567,7 +23568,7 @@ date,state,daily
 2023-01-28,W.P. Kuala Lumpur,48
 2023-01-28,W.P. Labuan,0
 2023-01-28,W.P. Putrajaya,0
-2023-01-29,Johor,126
+2023-01-29,Johor,127
 2023-01-29,Kedah,98
 2023-01-29,Kelantan,127
 2023-01-29,Melaka,6
@@ -23584,7 +23585,7 @@ date,state,daily
 2023-01-29,W.P. Labuan,0
 2023-01-29,W.P. Putrajaya,0
 2023-01-30,Johor,129
-2023-01-30,Kedah,158
+2023-01-30,Kedah,159
 2023-01-30,Kelantan,177
 2023-01-30,Melaka,12
 2023-01-30,Negeri Sembilan,36
@@ -23599,7 +23600,7 @@ date,state,daily
 2023-01-30,W.P. Kuala Lumpur,17
 2023-01-30,W.P. Labuan,0
 2023-01-30,W.P. Putrajaya,0
-2023-01-31,Johor,134
+2023-01-31,Johor,135
 2023-01-31,Kedah,143
 2023-01-31,Kelantan,189
 2023-01-31,Melaka,25
@@ -23624,7 +23625,7 @@ date,state,daily
 2023-02-01,Perak,121
 2023-02-01,Perlis,15
 2023-02-01,Pulau Pinang,36
-2023-02-01,Sabah,91
+2023-02-01,Sabah,92
 2023-02-01,Sarawak,214
 2023-02-01,Selangor,71
 2023-02-01,Terengganu,58
@@ -23690,7 +23691,7 @@ date,state,daily
 2023-02-05,Pulau Pinang,4
 2023-02-05,Sabah,4
 2023-02-05,Sarawak,30
-2023-02-05,Selangor,99
+2023-02-05,Selangor,100
 2023-02-05,Terengganu,49
 2023-02-05,W.P. Kuala Lumpur,161
 2023-02-05,W.P. Labuan,0
@@ -23705,13 +23706,13 @@ date,state,daily
 2023-02-06,Perlis,8
 2023-02-06,Pulau Pinang,7
 2023-02-06,Sabah,65
-2023-02-06,Sarawak,185
+2023-02-06,Sarawak,190
 2023-02-06,Selangor,29
 2023-02-06,Terengganu,58
 2023-02-06,W.P. Kuala Lumpur,85
 2023-02-06,W.P. Labuan,0
 2023-02-06,W.P. Putrajaya,1
-2023-02-07,Johor,140
+2023-02-07,Johor,145
 2023-02-07,Kedah,136
 2023-02-07,Kelantan,198
 2023-02-07,Melaka,28
@@ -23719,15 +23720,15 @@ date,state,daily
 2023-02-07,Pahang,42
 2023-02-07,Perak,95
 2023-02-07,Perlis,6
-2023-02-07,Pulau Pinang,80
+2023-02-07,Pulau Pinang,81
 2023-02-07,Sabah,103
-2023-02-07,Sarawak,226
+2023-02-07,Sarawak,227
 2023-02-07,Selangor,61
 2023-02-07,Terengganu,65
 2023-02-07,W.P. Kuala Lumpur,23
 2023-02-07,W.P. Labuan,0
 2023-02-07,W.P. Putrajaya,1
-2023-02-08,Johor,94
+2023-02-08,Johor,97
 2023-02-08,Kedah,165
 2023-02-08,Kelantan,197
 2023-02-08,Melaka,13
@@ -23738,12 +23739,12 @@ date,state,daily
 2023-02-08,Pulau Pinang,71
 2023-02-08,Sabah,147
 2023-02-08,Sarawak,222
-2023-02-08,Selangor,59
+2023-02-08,Selangor,60
 2023-02-08,Terengganu,61
 2023-02-08,W.P. Kuala Lumpur,10
 2023-02-08,W.P. Labuan,1
 2023-02-08,W.P. Putrajaya,2
-2023-02-09,Johor,148
+2023-02-09,Johor,149
 2023-02-09,Kedah,257
 2023-02-09,Kelantan,154
 2023-02-09,Melaka,26
@@ -23752,15 +23753,15 @@ date,state,daily
 2023-02-09,Perak,100
 2023-02-09,Perlis,2
 2023-02-09,Pulau Pinang,77
-2023-02-09,Sabah,136
-2023-02-09,Sarawak,122
+2023-02-09,Sabah,137
+2023-02-09,Sarawak,123
 2023-02-09,Selangor,87
 2023-02-09,Terengganu,42
 2023-02-09,W.P. Kuala Lumpur,10
 2023-02-09,W.P. Labuan,0
 2023-02-09,W.P. Putrajaya,0
 2023-02-10,Johor,49
-2023-02-10,Kedah,47
+2023-02-10,Kedah,48
 2023-02-10,Kelantan,16
 2023-02-10,Melaka,32
 2023-02-10,Negeri Sembilan,79
@@ -23768,14 +23769,14 @@ date,state,daily
 2023-02-10,Perak,189
 2023-02-10,Perlis,5
 2023-02-10,Pulau Pinang,41
-2023-02-10,Sabah,66
-2023-02-10,Sarawak,115
+2023-02-10,Sabah,68
+2023-02-10,Sarawak,120
 2023-02-10,Selangor,109
-2023-02-10,Terengganu,80
+2023-02-10,Terengganu,81
 2023-02-10,W.P. Kuala Lumpur,24
 2023-02-10,W.P. Labuan,3
 2023-02-10,W.P. Putrajaya,0
-2023-02-11,Johor,126
+2023-02-11,Johor,128
 2023-02-11,Kedah,30
 2023-02-11,Kelantan,4
 2023-02-11,Melaka,6
@@ -23791,7 +23792,7 @@ date,state,daily
 2023-02-11,W.P. Kuala Lumpur,13
 2023-02-11,W.P. Labuan,0
 2023-02-11,W.P. Putrajaya,0
-2023-02-12,Johor,61
+2023-02-12,Johor,68
 2023-02-12,Kedah,106
 2023-02-12,Kelantan,236
 2023-02-12,Melaka,7
@@ -23802,136 +23803,152 @@ date,state,daily
 2023-02-12,Pulau Pinang,35
 2023-02-12,Sabah,9
 2023-02-12,Sarawak,4
-2023-02-12,Selangor,363
+2023-02-12,Selangor,364
 2023-02-12,Terengganu,64
 2023-02-12,W.P. Kuala Lumpur,3
 2023-02-12,W.P. Labuan,0
 2023-02-12,W.P. Putrajaya,0
-2023-02-13,Johor,145
+2023-02-13,Johor,153
 2023-02-13,Kedah,216
 2023-02-13,Kelantan,219
 2023-02-13,Melaka,35
-2023-02-13,Negeri Sembilan,80
+2023-02-13,Negeri Sembilan,82
 2023-02-13,Pahang,17
 2023-02-13,Perak,77
 2023-02-13,Perlis,14
 2023-02-13,Pulau Pinang,31
-2023-02-13,Sabah,61
-2023-02-13,Sarawak,113
-2023-02-13,Selangor,88
+2023-02-13,Sabah,63
+2023-02-13,Sarawak,114
+2023-02-13,Selangor,91
 2023-02-13,Terengganu,64
 2023-02-13,W.P. Kuala Lumpur,14
 2023-02-13,W.P. Labuan,1
 2023-02-13,W.P. Putrajaya,0
-2023-02-14,Johor,120
+2023-02-14,Johor,122
 2023-02-14,Kedah,148
 2023-02-14,Kelantan,225
 2023-02-14,Melaka,32
-2023-02-14,Negeri Sembilan,100
+2023-02-14,Negeri Sembilan,101
 2023-02-14,Pahang,41
-2023-02-14,Perak,106
+2023-02-14,Perak,107
 2023-02-14,Perlis,6
 2023-02-14,Pulau Pinang,49
 2023-02-14,Sabah,146
-2023-02-14,Sarawak,162
+2023-02-14,Sarawak,165
 2023-02-14,Selangor,102
 2023-02-14,Terengganu,72
 2023-02-14,W.P. Kuala Lumpur,21
 2023-02-14,W.P. Labuan,1
 2023-02-14,W.P. Putrajaya,0
-2023-02-15,Johor,143
-2023-02-15,Kedah,170
-2023-02-15,Kelantan,209
+2023-02-15,Johor,145
+2023-02-15,Kedah,174
+2023-02-15,Kelantan,212
 2023-02-15,Melaka,39
-2023-02-15,Negeri Sembilan,95
-2023-02-15,Pahang,41
+2023-02-15,Negeri Sembilan,96
+2023-02-15,Pahang,43
 2023-02-15,Perak,149
-2023-02-15,Perlis,3
-2023-02-15,Pulau Pinang,23
+2023-02-15,Perlis,10
+2023-02-15,Pulau Pinang,24
 2023-02-15,Sabah,123
-2023-02-15,Sarawak,143
+2023-02-15,Sarawak,144
 2023-02-15,Selangor,101
 2023-02-15,Terengganu,168
 2023-02-15,W.P. Kuala Lumpur,16
 2023-02-15,W.P. Labuan,2
 2023-02-15,W.P. Putrajaya,0
-2023-02-16,Johor,153
-2023-02-16,Kedah,185
-2023-02-16,Kelantan,131
+2023-02-16,Johor,158
+2023-02-16,Kedah,199
+2023-02-16,Kelantan,134
 2023-02-16,Melaka,14
-2023-02-16,Negeri Sembilan,62
+2023-02-16,Negeri Sembilan,73
 2023-02-16,Pahang,21
-2023-02-16,Perak,78
-2023-02-16,Perlis,5
-2023-02-16,Pulau Pinang,50
-2023-02-16,Sabah,86
-2023-02-16,Sarawak,113
-2023-02-16,Selangor,111
+2023-02-16,Perak,87
+2023-02-16,Perlis,21
+2023-02-16,Pulau Pinang,52
+2023-02-16,Sabah,92
+2023-02-16,Sarawak,146
+2023-02-16,Selangor,113
 2023-02-16,Terengganu,19
 2023-02-16,W.P. Kuala Lumpur,25
 2023-02-16,W.P. Labuan,0
 2023-02-16,W.P. Putrajaya,1
-2023-02-17,Johor,54
+2023-02-17,Johor,56
 2023-02-17,Kedah,20
 2023-02-17,Kelantan,1
-2023-02-17,Melaka,34
-2023-02-17,Negeri Sembilan,27
-2023-02-17,Pahang,20
-2023-02-17,Perak,134
-2023-02-17,Perlis,0
-2023-02-17,Pulau Pinang,47
-2023-02-17,Sabah,35
-2023-02-17,Sarawak,45
-2023-02-17,Selangor,95
+2023-02-17,Melaka,35
+2023-02-17,Negeri Sembilan,44
+2023-02-17,Pahang,21
+2023-02-17,Perak,183
+2023-02-17,Perlis,3
+2023-02-17,Pulau Pinang,62
+2023-02-17,Sabah,36
+2023-02-17,Sarawak,46
+2023-02-17,Selangor,101
 2023-02-17,Terengganu,23
 2023-02-17,W.P. Kuala Lumpur,35
 2023-02-17,W.P. Labuan,0
 2023-02-17,W.P. Putrajaya,1
-2023-02-18,Johor,23
-2023-02-18,Kedah,31
-2023-02-18,Kelantan,10
-2023-02-18,Melaka,5
-2023-02-18,Negeri Sembilan,24
+2023-02-18,Johor,51
+2023-02-18,Kedah,36
+2023-02-18,Kelantan,16
+2023-02-18,Melaka,8
+2023-02-18,Negeri Sembilan,48
 2023-02-18,Pahang,8
-2023-02-18,Perak,15
+2023-02-18,Perak,19
 2023-02-18,Perlis,0
-2023-02-18,Pulau Pinang,9
-2023-02-18,Sabah,0
-2023-02-18,Sarawak,2
-2023-02-18,Selangor,87
-2023-02-18,Terengganu,6
+2023-02-18,Pulau Pinang,14
+2023-02-18,Sabah,3
+2023-02-18,Sarawak,4
+2023-02-18,Selangor,102
+2023-02-18,Terengganu,8
 2023-02-18,W.P. Kuala Lumpur,38
 2023-02-18,W.P. Labuan,0
 2023-02-18,W.P. Putrajaya,0
-2023-02-19,Johor,10
-2023-02-19,Kedah,87
-2023-02-19,Kelantan,93
-2023-02-19,Melaka,9
+2023-02-19,Johor,20
+2023-02-19,Kedah,89
+2023-02-19,Kelantan,136
+2023-02-19,Melaka,12
 2023-02-19,Negeri Sembilan,0
 2023-02-19,Pahang,0
 2023-02-19,Perak,0
 2023-02-19,Perlis,0
-2023-02-19,Pulau Pinang,2
+2023-02-19,Pulau Pinang,13
 2023-02-19,Sabah,0
 2023-02-19,Sarawak,2
-2023-02-19,Selangor,163
-2023-02-19,Terengganu,11
+2023-02-19,Selangor,207
+2023-02-19,Terengganu,12
 2023-02-19,W.P. Kuala Lumpur,1
 2023-02-19,W.P. Labuan,0
 2023-02-19,W.P. Putrajaya,0
-2023-02-20,Johor,11
-2023-02-20,Kedah,46
-2023-02-20,Kelantan,18
-2023-02-20,Melaka,1
-2023-02-20,Negeri Sembilan,0
-2023-02-20,Pahang,1
-2023-02-20,Perak,3
+2023-02-20,Johor,22
+2023-02-20,Kedah,84
+2023-02-20,Kelantan,75
+2023-02-20,Melaka,10
+2023-02-20,Negeri Sembilan,7
+2023-02-20,Pahang,10
+2023-02-20,Perak,9
 2023-02-20,Perlis,2
-2023-02-20,Pulau Pinang,5
-2023-02-20,Sabah,2
-2023-02-20,Sarawak,12
-2023-02-20,Selangor,13
-2023-02-20,Terengganu,2
-2023-02-20,W.P. Kuala Lumpur,0
+2023-02-20,Pulau Pinang,10
+2023-02-20,Sabah,39
+2023-02-20,Sarawak,24
+2023-02-20,Selangor,25
+2023-02-20,Terengganu,33
+2023-02-20,W.P. Kuala Lumpur,5
 2023-02-20,W.P. Labuan,0
 2023-02-20,W.P. Putrajaya,0
+2023-02-21,Johor,17
+2023-02-21,Kedah,40
+2023-02-21,Kelantan,22
+2023-02-21,Melaka,4
+2023-02-21,Negeri Sembilan,0
+2023-02-21,Pahang,4
+2023-02-21,Perak,4
+2023-02-21,Perlis,0
+2023-02-21,Pulau Pinang,2
+2023-02-21,Sabah,3
+2023-02-21,Sarawak,27
+2023-02-21,Selangor,2
+2023-02-21,Terengganu,0
+2023-02-21,W.P. Kuala Lumpur,1
+2023-02-21,W.P. Labuan,0
+2023-02-21,W.P. Putrajaya,0
