@@ -1462,12 +1462,14 @@ date,state,daily
 2023-04-14,Malaysia,710
 2023-04-15,Malaysia,426
 2023-04-16,Malaysia,639
-2023-04-17,Malaysia,850
+2023-04-17,Malaysia,864
 2023-04-18,Malaysia,905
-2023-04-19,Malaysia,478
-2023-04-20,Malaysia,234
+2023-04-19,Malaysia,484
+2023-04-20,Malaysia,235
 2023-04-21,Malaysia,14
 2023-04-22,Malaysia,7
+2023-04-23,Malaysia,3
+2023-04-24,Malaysia,2
 2019-04-15,Johor,0
 2019-04-15,Kedah,3
 2019-04-15,Kelantan,0
@@ -24877,10 +24879,10 @@ date,state,daily
 2023-04-16,W.P. Labuan,0
 2023-04-16,W.P. Putrajaya,0
 2023-04-17,Johor,95
-2023-04-17,Kedah,185
+2023-04-17,Kedah,186
 2023-04-17,Kelantan,101
 2023-04-17,Melaka,13
-2023-04-17,Negeri Sembilan,21
+2023-04-17,Negeri Sembilan,34
 2023-04-17,Pahang,24
 2023-04-17,Perak,64
 2023-04-17,Perlis,10
@@ -24911,10 +24913,10 @@ date,state,daily
 2023-04-19,Johor,59
 2023-04-19,Kedah,82
 2023-04-19,Kelantan,35
-2023-04-19,Melaka,11
-2023-04-19,Negeri Sembilan,12
+2023-04-19,Melaka,13
+2023-04-19,Negeri Sembilan,13
 2023-04-19,Pahang,22
-2023-04-19,Perak,34
+2023-04-19,Perak,37
 2023-04-19,Perlis,13
 2023-04-19,Pulau Pinang,11
 2023-04-19,Sabah,35
@@ -24927,7 +24929,7 @@ date,state,daily
 2023-04-20,Johor,57
 2023-04-20,Kedah,15
 2023-04-20,Kelantan,4
-2023-04-20,Melaka,6
+2023-04-20,Melaka,7
 2023-04-20,Negeri Sembilan,15
 2023-04-20,Pahang,9
 2023-04-20,Perak,21
@@ -24972,3 +24974,35 @@ date,state,daily
 2023-04-22,W.P. Kuala Lumpur,2
 2023-04-22,W.P. Labuan,0
 2023-04-22,W.P. Putrajaya,0
+2023-04-23,Johor,0
+2023-04-23,Kedah,0
+2023-04-23,Kelantan,0
+2023-04-23,Melaka,0
+2023-04-23,Negeri Sembilan,0
+2023-04-23,Pahang,0
+2023-04-23,Perak,0
+2023-04-23,Perlis,0
+2023-04-23,Pulau Pinang,0
+2023-04-23,Sabah,0
+2023-04-23,Sarawak,0
+2023-04-23,Selangor,1
+2023-04-23,Terengganu,0
+2023-04-23,W.P. Kuala Lumpur,2
+2023-04-23,W.P. Labuan,0
+2023-04-23,W.P. Putrajaya,0
+2023-04-24,Johor,0
+2023-04-24,Kedah,1
+2023-04-24,Kelantan,0
+2023-04-24,Melaka,0
+2023-04-24,Negeri Sembilan,0
+2023-04-24,Pahang,0
+2023-04-24,Perak,0
+2023-04-24,Perlis,0
+2023-04-24,Pulau Pinang,1
+2023-04-24,Sabah,0
+2023-04-24,Sarawak,0
+2023-04-24,Selangor,0
+2023-04-24,Terengganu,0
+2023-04-24,W.P. Kuala Lumpur,0
+2023-04-24,W.P. Labuan,0
+2023-04-24,W.P. Putrajaya,0
