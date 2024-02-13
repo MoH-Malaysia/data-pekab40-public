@@ -1755,14 +1755,15 @@ date,state,daily
 2024-02-01,Malaysia,1223
 2024-02-02,Malaysia,833
 2024-02-03,Malaysia,436
-2024-02-04,Malaysia,706
+2024-02-04,Malaysia,707
 2024-02-05,Malaysia,1033
-2024-02-06,Malaysia,1119
-2024-02-07,Malaysia,1074
-2024-02-08,Malaysia,555
-2024-02-09,Malaysia,157
-2024-02-10,Malaysia,8
-2024-02-11,Malaysia,2
+2024-02-06,Malaysia,1120
+2024-02-07,Malaysia,1075
+2024-02-08,Malaysia,570
+2024-02-09,Malaysia,171
+2024-02-10,Malaysia,12
+2024-02-11,Malaysia,7
+2024-02-12,Malaysia,2
 2019-04-15,Johor,0
 2019-04-15,Kedah,3
 2019-04-15,Kelantan,0
@@ -29860,7 +29861,7 @@ date,state,daily
 2024-02-03,W.P. Labuan,0
 2024-02-03,W.P. Putrajaya,0
 2024-02-04,Johor,87
-2024-02-04,Kedah,112
+2024-02-04,Kedah,113
 2024-02-04,Kelantan,193
 2024-02-04,Melaka,3
 2024-02-04,Negeri Sembilan,0
@@ -29893,7 +29894,7 @@ date,state,daily
 2024-02-05,W.P. Putrajaya,0
 2024-02-06,Johor,71
 2024-02-06,Kedah,159
-2024-02-06,Kelantan,199
+2024-02-06,Kelantan,200
 2024-02-06,Melaka,33
 2024-02-06,Negeri Sembilan,133
 2024-02-06,Pahang,47
@@ -29907,7 +29908,7 @@ date,state,daily
 2024-02-06,W.P. Kuala Lumpur,23
 2024-02-06,W.P. Labuan,2
 2024-02-06,W.P. Putrajaya,2
-2024-02-07,Johor,124
+2024-02-07,Johor,125
 2024-02-07,Kedah,117
 2024-02-07,Kelantan,198
 2024-02-07,Melaka,14
@@ -29929,20 +29930,20 @@ date,state,daily
 2024-02-08,Melaka,33
 2024-02-08,Negeri Sembilan,97
 2024-02-08,Pahang,2
-2024-02-08,Perak,44
-2024-02-08,Perlis,2
+2024-02-08,Perak,50
+2024-02-08,Perlis,3
 2024-02-08,Pulau Pinang,33
 2024-02-08,Sabah,25
 2024-02-08,Sarawak,55
-2024-02-08,Selangor,74
+2024-02-08,Selangor,82
 2024-02-08,Terengganu,7
 2024-02-08,W.P. Kuala Lumpur,27
 2024-02-08,W.P. Labuan,0
 2024-02-08,W.P. Putrajaya,1
-2024-02-09,Johor,9
-2024-02-09,Kedah,3
+2024-02-09,Johor,10
+2024-02-09,Kedah,4
 2024-02-09,Kelantan,0
-2024-02-09,Melaka,7
+2024-02-09,Melaka,19
 2024-02-09,Negeri Sembilan,32
 2024-02-09,Pahang,7
 2024-02-09,Perak,17
@@ -29955,10 +29956,10 @@ date,state,daily
 2024-02-09,W.P. Kuala Lumpur,8
 2024-02-09,W.P. Labuan,0
 2024-02-09,W.P. Putrajaya,1
-2024-02-10,Johor,0
-2024-02-10,Kedah,0
+2024-02-10,Johor,2
+2024-02-10,Kedah,1
 2024-02-10,Kelantan,0
-2024-02-10,Melaka,0
+2024-02-10,Melaka,1
 2024-02-10,Negeri Sembilan,0
 2024-02-10,Pahang,0
 2024-02-10,Perak,4
@@ -29971,7 +29972,7 @@ date,state,daily
 2024-02-10,W.P. Kuala Lumpur,1
 2024-02-10,W.P. Labuan,0
 2024-02-10,W.P. Putrajaya,0
-2024-02-11,Johor,1
+2024-02-11,Johor,3
 2024-02-11,Kedah,0
 2024-02-11,Kelantan,0
 2024-02-11,Melaka,0
@@ -29982,8 +29983,24 @@ date,state,daily
 2024-02-11,Pulau Pinang,0
 2024-02-11,Sabah,0
 2024-02-11,Sarawak,0
-2024-02-11,Selangor,0
+2024-02-11,Selangor,2
 2024-02-11,Terengganu,0
-2024-02-11,W.P. Kuala Lumpur,1
+2024-02-11,W.P. Kuala Lumpur,2
 2024-02-11,W.P. Labuan,0
 2024-02-11,W.P. Putrajaya,0
+2024-02-12,Johor,2
+2024-02-12,Kedah,0
+2024-02-12,Kelantan,0
+2024-02-12,Melaka,0
+2024-02-12,Negeri Sembilan,0
+2024-02-12,Pahang,0
+2024-02-12,Perak,0
+2024-02-12,Perlis,0
+2024-02-12,Pulau Pinang,0
+2024-02-12,Sabah,0
+2024-02-12,Sarawak,0
+2024-02-12,Selangor,0
+2024-02-12,Terengganu,0
+2024-02-12,W.P. Kuala Lumpur,0
+2024-02-12,W.P. Labuan,0
+2024-02-12,W.P. Putrajaya,0
