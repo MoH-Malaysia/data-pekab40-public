@@ -1664,7 +1664,7 @@ date,state,daily
 2023-11-02,Malaysia,1364
 2023-11-03,Malaysia,771
 2023-11-04,Malaysia,521
-2023-11-05,Malaysia,772
+2023-11-05,Malaysia,773
 2023-11-06,Malaysia,1097
 2023-11-07,Malaysia,1284
 2023-11-08,Malaysia,1372
@@ -1717,7 +1717,7 @@ date,state,daily
 2023-12-25,Malaysia,175
 2023-12-26,Malaysia,994
 2023-12-27,Malaysia,1153
-2023-12-28,Malaysia,1289
+2023-12-28,Malaysia,1290
 2023-12-29,Malaysia,894
 2023-12-30,Malaysia,877
 2023-12-31,Malaysia,729
@@ -1734,11 +1734,11 @@ date,state,daily
 2024-01-11,Malaysia,1245
 2024-01-12,Malaysia,826
 2024-01-13,Malaysia,323
-2024-01-14,Malaysia,786
+2024-01-14,Malaysia,787
 2024-01-15,Malaysia,1143
 2024-01-16,Malaysia,1225
 2024-01-17,Malaysia,1578
-2024-01-18,Malaysia,1254
+2024-01-18,Malaysia,1255
 2024-01-19,Malaysia,911
 2024-01-20,Malaysia,664
 2024-01-21,Malaysia,776
@@ -1756,7 +1756,7 @@ date,state,daily
 2024-02-02,Malaysia,851
 2024-02-03,Malaysia,446
 2024-02-04,Malaysia,711
-2024-02-05,Malaysia,1076
+2024-02-05,Malaysia,1077
 2024-02-06,Malaysia,1225
 2024-02-07,Malaysia,1256
 2024-02-08,Malaysia,784
@@ -1766,15 +1766,16 @@ date,state,daily
 2024-02-12,Malaysia,192
 2024-02-13,Malaysia,1031
 2024-02-14,Malaysia,1167
-2024-02-15,Malaysia,1066
-2024-02-16,Malaysia,771
-2024-02-17,Malaysia,485
-2024-02-18,Malaysia,690
-2024-02-19,Malaysia,971
-2024-02-20,Malaysia,1061
-2024-02-21,Malaysia,989
-2024-02-22,Malaysia,479
-2024-02-23,Malaysia,65
+2024-02-15,Malaysia,1070
+2024-02-16,Malaysia,774
+2024-02-17,Malaysia,486
+2024-02-18,Malaysia,697
+2024-02-19,Malaysia,1022
+2024-02-20,Malaysia,1133
+2024-02-21,Malaysia,1095
+2024-02-22,Malaysia,771
+2024-02-23,Malaysia,196
+2024-02-24,Malaysia,10
 2019-04-15,Johor,0
 2019-04-15,Kedah,3
 2019-04-15,Kelantan,0
@@ -28423,7 +28424,7 @@ date,state,daily
 2023-11-05,Pahang,117
 2023-11-05,Perak,20
 2023-11-05,Perlis,12
-2023-11-05,Pulau Pinang,12
+2023-11-05,Pulau Pinang,13
 2023-11-05,Sabah,15
 2023-11-05,Sarawak,25
 2023-11-05,Selangor,108
@@ -29271,7 +29272,7 @@ date,state,daily
 2023-12-28,Pahang,39
 2023-12-28,Perak,153
 2023-12-28,Perlis,10
-2023-12-28,Pulau Pinang,92
+2023-12-28,Pulau Pinang,93
 2023-12-28,Sabah,69
 2023-12-28,Sarawak,66
 2023-12-28,Selangor,199
@@ -29544,7 +29545,7 @@ date,state,daily
 2024-01-14,Perak,23
 2024-01-14,Perlis,2
 2024-01-14,Pulau Pinang,29
-2024-01-14,Sabah,33
+2024-01-14,Sabah,34
 2024-01-14,Sarawak,4
 2024-01-14,Selangor,169
 2024-01-14,Terengganu,82
@@ -29613,7 +29614,7 @@ date,state,daily
 2024-01-18,Selangor,87
 2024-01-18,Terengganu,48
 2024-01-18,W.P. Kuala Lumpur,15
-2024-01-18,W.P. Labuan,0
+2024-01-18,W.P. Labuan,1
 2024-01-18,W.P. Putrajaya,5
 2024-01-19,Johor,43
 2024-01-19,Kedah,40
@@ -29894,7 +29895,7 @@ date,state,daily
 2024-02-05,Negeri Sembilan,89
 2024-02-05,Pahang,37
 2024-02-05,Perak,65
-2024-02-05,Perlis,19
+2024-02-05,Perlis,20
 2024-02-05,Pulau Pinang,24
 2024-02-05,Sabah,47
 2024-02-05,Sarawak,88
@@ -30047,9 +30048,9 @@ date,state,daily
 2024-02-14,W.P. Kuala Lumpur,17
 2024-02-14,W.P. Labuan,1
 2024-02-14,W.P. Putrajaya,1
-2024-02-15,Johor,81
-2024-02-15,Kedah,256
-2024-02-15,Kelantan,75
+2024-02-15,Johor,83
+2024-02-15,Kedah,257
+2024-02-15,Kelantan,76
 2024-02-15,Melaka,17
 2024-02-15,Negeri Sembilan,134
 2024-02-15,Pahang,39
@@ -30067,8 +30068,8 @@ date,state,daily
 2024-02-16,Kedah,24
 2024-02-16,Kelantan,5
 2024-02-16,Melaka,40
-2024-02-16,Negeri Sembilan,86
-2024-02-16,Pahang,11
+2024-02-16,Negeri Sembilan,88
+2024-02-16,Pahang,12
 2024-02-16,Perak,173
 2024-02-16,Perlis,14
 2024-02-16,Pulau Pinang,40
@@ -30088,106 +30089,122 @@ date,state,daily
 2024-02-17,Perak,21
 2024-02-17,Perlis,6
 2024-02-17,Pulau Pinang,8
-2024-02-17,Sabah,6
+2024-02-17,Sabah,7
 2024-02-17,Sarawak,28
 2024-02-17,Selangor,189
 2024-02-17,Terengganu,51
 2024-02-17,W.P. Kuala Lumpur,26
 2024-02-17,W.P. Labuan,0
 2024-02-17,W.P. Putrajaya,0
-2024-02-18,Johor,63
+2024-02-18,Johor,66
 2024-02-18,Kedah,75
-2024-02-18,Kelantan,175
+2024-02-18,Kelantan,177
 2024-02-18,Melaka,35
 2024-02-18,Negeri Sembilan,21
 2024-02-18,Pahang,3
 2024-02-18,Perak,43
 2024-02-18,Perlis,0
 2024-02-18,Pulau Pinang,7
-2024-02-18,Sabah,6
+2024-02-18,Sabah,8
 2024-02-18,Sarawak,3
 2024-02-18,Selangor,137
 2024-02-18,Terengganu,102
 2024-02-18,W.P. Kuala Lumpur,20
 2024-02-18,W.P. Labuan,0
 2024-02-18,W.P. Putrajaya,0
-2024-02-19,Johor,98
+2024-02-19,Johor,99
 2024-02-19,Kedah,130
-2024-02-19,Kelantan,161
-2024-02-19,Melaka,9
-2024-02-19,Negeri Sembilan,94
-2024-02-19,Pahang,16
-2024-02-19,Perak,58
+2024-02-19,Kelantan,162
+2024-02-19,Melaka,10
+2024-02-19,Negeri Sembilan,97
+2024-02-19,Pahang,17
+2024-02-19,Perak,60
 2024-02-19,Perlis,16
 2024-02-19,Pulau Pinang,15
-2024-02-19,Sabah,38
-2024-02-19,Sarawak,109
-2024-02-19,Selangor,94
+2024-02-19,Sabah,43
+2024-02-19,Sarawak,110
+2024-02-19,Selangor,130
 2024-02-19,Terengganu,118
 2024-02-19,W.P. Kuala Lumpur,11
 2024-02-19,W.P. Labuan,3
 2024-02-19,W.P. Putrajaya,1
-2024-02-20,Johor,93
+2024-02-20,Johor,94
 2024-02-20,Kedah,126
-2024-02-20,Kelantan,165
+2024-02-20,Kelantan,167
 2024-02-20,Melaka,1
-2024-02-20,Negeri Sembilan,119
+2024-02-20,Negeri Sembilan,122
 2024-02-20,Pahang,25
-2024-02-20,Perak,65
+2024-02-20,Perak,79
 2024-02-20,Perlis,7
 2024-02-20,Pulau Pinang,20
-2024-02-20,Sabah,57
-2024-02-20,Sarawak,146
-2024-02-20,Selangor,103
+2024-02-20,Sabah,78
+2024-02-20,Sarawak,174
+2024-02-20,Selangor,106
 2024-02-20,Terengganu,116
 2024-02-20,W.P. Kuala Lumpur,12
 2024-02-20,W.P. Labuan,6
 2024-02-20,W.P. Putrajaya,0
-2024-02-21,Johor,101
-2024-02-21,Kedah,85
-2024-02-21,Kelantan,178
+2024-02-21,Johor,105
+2024-02-21,Kedah,94
+2024-02-21,Kelantan,179
 2024-02-21,Melaka,28
-2024-02-21,Negeri Sembilan,93
+2024-02-21,Negeri Sembilan,94
 2024-02-21,Pahang,43
-2024-02-21,Perak,109
+2024-02-21,Perak,124
 2024-02-21,Perlis,14
-2024-02-21,Pulau Pinang,24
-2024-02-21,Sabah,34
-2024-02-21,Sarawak,60
-2024-02-21,Selangor,78
-2024-02-21,Terengganu,112
-2024-02-21,W.P. Kuala Lumpur,21
-2024-02-21,W.P. Labuan,8
+2024-02-21,Pulau Pinang,26
+2024-02-21,Sabah,67
+2024-02-21,Sarawak,72
+2024-02-21,Selangor,84
+2024-02-21,Terengganu,113
+2024-02-21,W.P. Kuala Lumpur,25
+2024-02-21,W.P. Labuan,26
 2024-02-21,W.P. Putrajaya,1
-2024-02-22,Johor,65
-2024-02-22,Kedah,74
-2024-02-22,Kelantan,49
-2024-02-22,Melaka,8
-2024-02-22,Negeri Sembilan,54
-2024-02-22,Pahang,19
-2024-02-22,Perak,28
+2024-02-22,Johor,111
+2024-02-22,Kedah,157
+2024-02-22,Kelantan,51
+2024-02-22,Melaka,22
+2024-02-22,Negeri Sembilan,70
+2024-02-22,Pahang,28
+2024-02-22,Perak,45
 2024-02-22,Perlis,0
-2024-02-22,Pulau Pinang,17
-2024-02-22,Sabah,28
-2024-02-22,Sarawak,42
-2024-02-22,Selangor,65
-2024-02-22,Terengganu,12
+2024-02-22,Pulau Pinang,71
+2024-02-22,Sabah,42
+2024-02-22,Sarawak,57
+2024-02-22,Selangor,75
+2024-02-22,Terengganu,15
 2024-02-22,W.P. Kuala Lumpur,18
-2024-02-22,W.P. Labuan,0
+2024-02-22,W.P. Labuan,9
 2024-02-22,W.P. Putrajaya,0
 2024-02-23,Johor,1
-2024-02-23,Kedah,0
+2024-02-23,Kedah,6
 2024-02-23,Kelantan,0
 2024-02-23,Melaka,6
-2024-02-23,Negeri Sembilan,0
-2024-02-23,Pahang,7
-2024-02-23,Perak,2
+2024-02-23,Negeri Sembilan,18
+2024-02-23,Pahang,8
+2024-02-23,Perak,46
 2024-02-23,Perlis,0
 2024-02-23,Pulau Pinang,0
 2024-02-23,Sabah,8
-2024-02-23,Sarawak,38
-2024-02-23,Selangor,1
+2024-02-23,Sarawak,49
+2024-02-23,Selangor,44
 2024-02-23,Terengganu,0
-2024-02-23,W.P. Kuala Lumpur,2
+2024-02-23,W.P. Kuala Lumpur,10
 2024-02-23,W.P. Labuan,0
 2024-02-23,W.P. Putrajaya,0
+2024-02-24,Johor,0
+2024-02-24,Kedah,6
+2024-02-24,Kelantan,0
+2024-02-24,Melaka,0
+2024-02-24,Negeri Sembilan,0
+2024-02-24,Pahang,0
+2024-02-24,Perak,0
+2024-02-24,Perlis,0
+2024-02-24,Pulau Pinang,0
+2024-02-24,Sabah,0
+2024-02-24,Sarawak,3
+2024-02-24,Selangor,0
+2024-02-24,Terengganu,0
+2024-02-24,W.P. Kuala Lumpur,1
+2024-02-24,W.P. Labuan,0
+2024-02-24,W.P. Putrajaya,0
