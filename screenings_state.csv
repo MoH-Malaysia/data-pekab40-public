@@ -2240,14 +2240,14 @@ date,state,daily
 2025-05-31,Malaysia,549
 2025-06-01,Malaysia,728
 2025-06-02,Malaysia,279
-2025-06-03,Malaysia,925
+2025-06-03,Malaysia,926
 2025-06-04,Malaysia,976
 2025-06-05,Malaysia,840
 2025-06-06,Malaysia,572
 2025-06-07,Malaysia,112
 2025-06-08,Malaysia,184
 2025-06-09,Malaysia,671
-2025-06-10,Malaysia,1023
+2025-06-10,Malaysia,1024
 2025-06-11,Malaysia,1049
 2025-06-12,Malaysia,1132
 2025-06-13,Malaysia,1128
@@ -2266,7 +2266,7 @@ date,state,daily
 2025-06-26,Malaysia,1001
 2025-06-27,Malaysia,315
 2025-06-28,Malaysia,720
-2025-06-29,Malaysia,941
+2025-06-29,Malaysia,942
 2025-06-30,Malaysia,990
 2025-07-01,Malaysia,992
 2025-07-02,Malaysia,1102
@@ -2282,7 +2282,7 @@ date,state,daily
 2025-07-12,Malaysia,862
 2025-07-13,Malaysia,720
 2025-07-14,Malaysia,937
-2025-07-15,Malaysia,1156
+2025-07-15,Malaysia,1157
 2025-07-16,Malaysia,1247
 2025-07-17,Malaysia,1075
 2025-07-18,Malaysia,1190
@@ -2338,7 +2338,7 @@ date,state,daily
 2025-09-06,Malaysia,794
 2025-09-07,Malaysia,696
 2025-09-08,Malaysia,1084
-2025-09-09,Malaysia,1133
+2025-09-09,Malaysia,1134
 2025-09-10,Malaysia,1161
 2025-09-11,Malaysia,1259
 2025-09-12,Malaysia,1252
@@ -2346,7 +2346,7 @@ date,state,daily
 2025-09-14,Malaysia,451
 2025-09-15,Malaysia,231
 2025-09-16,Malaysia,324
-2025-09-17,Malaysia,791
+2025-09-17,Malaysia,792
 2025-09-18,Malaysia,1019
 2025-09-19,Malaysia,867
 2025-09-20,Malaysia,710
@@ -2354,25 +2354,26 @@ date,state,daily
 2025-09-22,Malaysia,853
 2025-09-23,Malaysia,1080
 2025-09-24,Malaysia,1076
-2025-09-25,Malaysia,1088
+2025-09-25,Malaysia,1089
 2025-09-26,Malaysia,1052
 2025-09-27,Malaysia,977
 2025-09-28,Malaysia,808
-2025-09-29,Malaysia,786
+2025-09-29,Malaysia,788
 2025-09-30,Malaysia,804
-2025-10-01,Malaysia,991
-2025-10-02,Malaysia,1122
-2025-10-03,Malaysia,974
-2025-10-04,Malaysia,856
+2025-10-01,Malaysia,993
+2025-10-02,Malaysia,1125
+2025-10-03,Malaysia,978
+2025-10-04,Malaysia,857
 2025-10-05,Malaysia,624
-2025-10-06,Malaysia,887
-2025-10-07,Malaysia,910
-2025-10-08,Malaysia,911
-2025-10-09,Malaysia,949
-2025-10-10,Malaysia,540
-2025-10-11,Malaysia,333
-2025-10-12,Malaysia,263
-2025-10-13,Malaysia,71
+2025-10-06,Malaysia,889
+2025-10-07,Malaysia,918
+2025-10-08,Malaysia,969
+2025-10-09,Malaysia,997
+2025-10-10,Malaysia,784
+2025-10-11,Malaysia,510
+2025-10-12,Malaysia,371
+2025-10-13,Malaysia,291
+2025-10-14,Malaysia,74
 2019-04-15,Johor,0
 2019-04-15,Kedah,3
 2019-04-15,Kelantan,0
@@ -38233,7 +38234,7 @@ date,state,daily
 2025-06-03,Kedah,90
 2025-06-03,Kelantan,134
 2025-06-03,Melaka,16
-2025-06-03,Negeri Sembilan,69
+2025-06-03,Negeri Sembilan,70
 2025-06-03,Pahang,48
 2025-06-03,Perak,85
 2025-06-03,Perlis,20
@@ -38343,7 +38344,7 @@ date,state,daily
 2025-06-09,W.P. Putrajaya,0
 2025-06-10,Johor,78
 2025-06-10,Kedah,74
-2025-06-10,Kelantan,120
+2025-06-10,Kelantan,121
 2025-06-10,Melaka,16
 2025-06-10,Negeri Sembilan,81
 2025-06-10,Pahang,40
@@ -38656,7 +38657,7 @@ date,state,daily
 2025-06-29,Pulau Pinang,45
 2025-06-29,Sabah,230
 2025-06-29,Sarawak,7
-2025-06-29,Selangor,177
+2025-06-29,Selangor,178
 2025-06-29,Terengganu,71
 2025-06-29,W.P. Kuala Lumpur,28
 2025-06-29,W.P. Labuan,0
@@ -38905,7 +38906,7 @@ date,state,daily
 2025-07-15,Kedah,81
 2025-07-15,Kelantan,145
 2025-07-15,Melaka,16
-2025-07-15,Negeri Sembilan,125
+2025-07-15,Negeri Sembilan,126
 2025-07-15,Pahang,53
 2025-07-15,Perak,98
 2025-07-15,Perlis,9
@@ -39797,7 +39798,7 @@ date,state,daily
 2025-09-08,W.P. Kuala Lumpur,27
 2025-09-08,W.P. Labuan,3
 2025-09-08,W.P. Putrajaya,0
-2025-09-09,Johor,149
+2025-09-09,Johor,150
 2025-09-09,Kedah,106
 2025-09-09,Kelantan,88
 2025-09-09,Melaka,54
@@ -39937,7 +39938,7 @@ date,state,daily
 2025-09-17,Sabah,153
 2025-09-17,Sarawak,50
 2025-09-17,Selangor,126
-2025-09-17,Terengganu,42
+2025-09-17,Terengganu,43
 2025-09-17,W.P. Kuala Lumpur,10
 2025-09-17,W.P. Labuan,1
 2025-09-17,W.P. Putrajaya,0
@@ -40064,7 +40065,7 @@ date,state,daily
 2025-09-25,Pulau Pinang,43
 2025-09-25,Sabah,211
 2025-09-25,Sarawak,93
-2025-09-25,Selangor,101
+2025-09-25,Selangor,102
 2025-09-25,Terengganu,20
 2025-09-25,W.P. Kuala Lumpur,46
 2025-09-25,W.P. Labuan,1
@@ -40126,14 +40127,14 @@ date,state,daily
 2025-09-29,Perak,89
 2025-09-29,Perlis,27
 2025-09-29,Pulau Pinang,46
-2025-09-29,Sabah,55
+2025-09-29,Sabah,57
 2025-09-29,Sarawak,99
 2025-09-29,Selangor,134
 2025-09-29,Terengganu,23
 2025-09-29,W.P. Kuala Lumpur,22
 2025-09-29,W.P. Labuan,2
 2025-09-29,W.P. Putrajaya,0
-2025-09-30,Johor,70
+2025-09-30,Johor,68
 2025-09-30,Kedah,69
 2025-09-30,Kelantan,32
 2025-09-30,Melaka,27
@@ -40141,7 +40142,7 @@ date,state,daily
 2025-09-30,Pahang,43
 2025-09-30,Perak,110
 2025-09-30,Perlis,22
-2025-09-30,Pulau Pinang,24
+2025-09-30,Pulau Pinang,26
 2025-09-30,Sabah,113
 2025-09-30,Sarawak,77
 2025-09-30,Selangor,132
@@ -40155,7 +40156,7 @@ date,state,daily
 2025-10-01,Melaka,14
 2025-10-01,Negeri Sembilan,32
 2025-10-01,Pahang,72
-2025-10-01,Perak,121
+2025-10-01,Perak,123
 2025-10-01,Perlis,10
 2025-10-01,Pulau Pinang,47
 2025-10-01,Sabah,123
@@ -40165,7 +40166,7 @@ date,state,daily
 2025-10-01,W.P. Kuala Lumpur,24
 2025-10-01,W.P. Labuan,1
 2025-10-01,W.P. Putrajaya,0
-2025-10-02,Johor,107
+2025-10-02,Johor,109
 2025-10-02,Kedah,108
 2025-10-02,Kelantan,66
 2025-10-02,Melaka,46
@@ -40175,19 +40176,19 @@ date,state,daily
 2025-10-02,Perlis,7
 2025-10-02,Pulau Pinang,38
 2025-10-02,Sabah,201
-2025-10-02,Sarawak,82
+2025-10-02,Sarawak,83
 2025-10-02,Selangor,160
 2025-10-02,Terengganu,23
 2025-10-02,W.P. Kuala Lumpur,34
 2025-10-02,W.P. Labuan,0
 2025-10-02,W.P. Putrajaya,1
-2025-10-03,Johor,73
+2025-10-03,Johor,76
 2025-10-03,Kedah,35
 2025-10-03,Kelantan,4
 2025-10-03,Melaka,30
 2025-10-03,Negeri Sembilan,22
 2025-10-03,Pahang,54
-2025-10-03,Perak,260
+2025-10-03,Perak,261
 2025-10-03,Perlis,4
 2025-10-03,Pulau Pinang,61
 2025-10-03,Sabah,148
@@ -40197,7 +40198,7 @@ date,state,daily
 2025-10-03,W.P. Kuala Lumpur,21
 2025-10-03,W.P. Labuan,0
 2025-10-03,W.P. Putrajaya,0
-2025-10-04,Johor,23
+2025-10-04,Johor,24
 2025-10-04,Kedah,79
 2025-10-04,Kelantan,52
 2025-10-04,Melaka,28
@@ -40235,10 +40236,10 @@ date,state,daily
 2025-10-06,Melaka,12
 2025-10-06,Negeri Sembilan,15
 2025-10-06,Pahang,62
-2025-10-06,Perak,43
+2025-10-06,Perak,44
 2025-10-06,Perlis,14
 2025-10-06,Pulau Pinang,31
-2025-10-06,Sabah,79
+2025-10-06,Sabah,80
 2025-10-06,Sarawak,48
 2025-10-06,Selangor,221
 2025-10-06,Terengganu,52
@@ -40246,114 +40247,130 @@ date,state,daily
 2025-10-06,W.P. Labuan,1
 2025-10-06,W.P. Putrajaya,2
 2025-10-07,Johor,69
-2025-10-07,Kedah,91
-2025-10-07,Kelantan,76
+2025-10-07,Kedah,92
+2025-10-07,Kelantan,77
 2025-10-07,Melaka,33
-2025-10-07,Negeri Sembilan,19
-2025-10-07,Pahang,94
-2025-10-07,Perak,138
+2025-10-07,Negeri Sembilan,21
+2025-10-07,Pahang,95
+2025-10-07,Perak,140
 2025-10-07,Perlis,13
 2025-10-07,Pulau Pinang,34
-2025-10-07,Sabah,117
+2025-10-07,Sabah,118
 2025-10-07,Sarawak,46
 2025-10-07,Selangor,124
 2025-10-07,Terengganu,26
 2025-10-07,W.P. Kuala Lumpur,29
 2025-10-07,W.P. Labuan,0
 2025-10-07,W.P. Putrajaya,1
-2025-10-08,Johor,122
-2025-10-08,Kedah,58
-2025-10-08,Kelantan,61
-2025-10-08,Melaka,11
+2025-10-08,Johor,123
+2025-10-08,Kedah,68
+2025-10-08,Kelantan,62
+2025-10-08,Melaka,12
 2025-10-08,Negeri Sembilan,26
 2025-10-08,Pahang,33
-2025-10-08,Perak,121
+2025-10-08,Perak,131
 2025-10-08,Perlis,14
-2025-10-08,Pulau Pinang,28
-2025-10-08,Sabah,163
-2025-10-08,Sarawak,56
-2025-10-08,Selangor,145
+2025-10-08,Pulau Pinang,29
+2025-10-08,Sabah,176
+2025-10-08,Sarawak,67
+2025-10-08,Selangor,155
 2025-10-08,Terengganu,58
 2025-10-08,W.P. Kuala Lumpur,15
 2025-10-08,W.P. Labuan,0
 2025-10-08,W.P. Putrajaya,0
-2025-10-09,Johor,82
-2025-10-09,Kedah,119
+2025-10-09,Johor,85
+2025-10-09,Kedah,130
 2025-10-09,Kelantan,50
 2025-10-09,Melaka,15
-2025-10-09,Negeri Sembilan,97
+2025-10-09,Negeri Sembilan,100
 2025-10-09,Pahang,30
-2025-10-09,Perak,90
+2025-10-09,Perak,105
 2025-10-09,Perlis,13
 2025-10-09,Pulau Pinang,39
-2025-10-09,Sabah,192
-2025-10-09,Sarawak,57
-2025-10-09,Selangor,118
+2025-10-09,Sabah,197
+2025-10-09,Sarawak,65
+2025-10-09,Selangor,121
 2025-10-09,Terengganu,20
 2025-10-09,W.P. Kuala Lumpur,26
 2025-10-09,W.P. Labuan,0
 2025-10-09,W.P. Putrajaya,1
-2025-10-10,Johor,65
-2025-10-10,Kedah,13
+2025-10-10,Johor,73
+2025-10-10,Kedah,31
 2025-10-10,Kelantan,39
-2025-10-10,Melaka,25
-2025-10-10,Negeri Sembilan,15
-2025-10-10,Pahang,22
-2025-10-10,Perak,92
+2025-10-10,Melaka,62
+2025-10-10,Negeri Sembilan,16
+2025-10-10,Pahang,25
+2025-10-10,Perak,205
 2025-10-10,Perlis,1
 2025-10-10,Pulau Pinang,28
-2025-10-10,Sabah,40
-2025-10-10,Sarawak,80
-2025-10-10,Selangor,74
+2025-10-10,Sabah,92
+2025-10-10,Sarawak,82
+2025-10-10,Selangor,84
 2025-10-10,Terengganu,11
 2025-10-10,W.P. Kuala Lumpur,33
 2025-10-10,W.P. Labuan,0
 2025-10-10,W.P. Putrajaya,2
-2025-10-11,Johor,31
-2025-10-11,Kedah,6
+2025-10-11,Johor,38
+2025-10-11,Kedah,45
 2025-10-11,Kelantan,63
-2025-10-11,Melaka,26
+2025-10-11,Melaka,47
 2025-10-11,Negeri Sembilan,3
-2025-10-11,Pahang,14
-2025-10-11,Perak,25
+2025-10-11,Pahang,26
+2025-10-11,Perak,29
 2025-10-11,Perlis,3
-2025-10-11,Pulau Pinang,4
-2025-10-11,Sabah,15
-2025-10-11,Sarawak,11
-2025-10-11,Selangor,43
-2025-10-11,Terengganu,34
-2025-10-11,W.P. Kuala Lumpur,55
+2025-10-11,Pulau Pinang,5
+2025-10-11,Sabah,64
+2025-10-11,Sarawak,21
+2025-10-11,Selangor,53
+2025-10-11,Terengganu,38
+2025-10-11,W.P. Kuala Lumpur,75
 2025-10-11,W.P. Labuan,0
 2025-10-11,W.P. Putrajaya,0
-2025-10-12,Johor,14
-2025-10-12,Kedah,45
-2025-10-12,Kelantan,75
-2025-10-12,Melaka,0
+2025-10-12,Johor,25
+2025-10-12,Kedah,90
+2025-10-12,Kelantan,76
+2025-10-12,Melaka,2
 2025-10-12,Negeri Sembilan,0
-2025-10-12,Pahang,18
-2025-10-12,Perak,2
+2025-10-12,Pahang,23
+2025-10-12,Perak,8
 2025-10-12,Perlis,0
-2025-10-12,Pulau Pinang,2
-2025-10-12,Sabah,0
-2025-10-12,Sarawak,3
-2025-10-12,Selangor,62
-2025-10-12,Terengganu,27
-2025-10-12,W.P. Kuala Lumpur,15
+2025-10-12,Pulau Pinang,6
+2025-10-12,Sabah,7
+2025-10-12,Sarawak,10
+2025-10-12,Selangor,72
+2025-10-12,Terengganu,33
+2025-10-12,W.P. Kuala Lumpur,19
 2025-10-12,W.P. Labuan,0
 2025-10-12,W.P. Putrajaya,0
-2025-10-13,Johor,14
-2025-10-13,Kedah,21
-2025-10-13,Kelantan,17
-2025-10-13,Melaka,0
-2025-10-13,Negeri Sembilan,0
-2025-10-13,Pahang,4
-2025-10-13,Perak,0
+2025-10-13,Johor,56
+2025-10-13,Kedah,44
+2025-10-13,Kelantan,54
+2025-10-13,Melaka,9
+2025-10-13,Negeri Sembilan,12
+2025-10-13,Pahang,16
+2025-10-13,Perak,22
 2025-10-13,Perlis,0
-2025-10-13,Pulau Pinang,0
-2025-10-13,Sabah,1
-2025-10-13,Sarawak,6
-2025-10-13,Selangor,4
-2025-10-13,Terengganu,0
-2025-10-13,W.P. Kuala Lumpur,4
+2025-10-13,Pulau Pinang,2
+2025-10-13,Sabah,4
+2025-10-13,Sarawak,21
+2025-10-13,Selangor,22
+2025-10-13,Terengganu,18
+2025-10-13,W.P. Kuala Lumpur,11
 2025-10-13,W.P. Labuan,0
 2025-10-13,W.P. Putrajaya,0
+2025-10-14,Johor,10
+2025-10-14,Kedah,16
+2025-10-14,Kelantan,26
+2025-10-14,Melaka,0
+2025-10-14,Negeri Sembilan,0
+2025-10-14,Pahang,7
+2025-10-14,Perak,0
+2025-10-14,Perlis,0
+2025-10-14,Pulau Pinang,0
+2025-10-14,Sabah,1
+2025-10-14,Sarawak,13
+2025-10-14,Selangor,1
+2025-10-14,Terengganu,0
+2025-10-14,W.P. Kuala Lumpur,0
+2025-10-14,W.P. Labuan,0
+2025-10-14,W.P. Putrajaya,0
