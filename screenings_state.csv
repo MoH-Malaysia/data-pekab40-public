@@ -2492,14 +2492,15 @@ date,state,daily
 2026-02-07,Malaysia,604
 2026-02-08,Malaysia,611
 2026-02-09,Malaysia,1009
-2026-02-10,Malaysia,1146
+2026-02-10,Malaysia,1157
 2026-02-11,Malaysia,1109
 2026-02-12,Malaysia,789
-2026-02-13,Malaysia,597
-2026-02-14,Malaysia,149
+2026-02-13,Malaysia,632
+2026-02-14,Malaysia,150
 2026-02-15,Malaysia,161
-2026-02-16,Malaysia,61
+2026-02-16,Malaysia,79
 2026-02-17,Malaysia,2
+2026-02-18,Malaysia,1
 2019-04-15,Johor,0
 2019-04-15,Kedah,3
 2019-04-15,Kelantan,0
@@ -42394,7 +42395,7 @@ date,state,daily
 2026-02-10,Melaka,27
 2026-02-10,Negeri Sembilan,120
 2026-02-10,Pahang,44
-2026-02-10,Perak,76
+2026-02-10,Perak,87
 2026-02-10,Perlis,15
 2026-02-10,Pulau Pinang,75
 2026-02-10,Sabah,66
@@ -42437,12 +42438,12 @@ date,state,daily
 2026-02-12,W.P. Labuan,1
 2026-02-12,W.P. Putrajaya,0
 2026-02-13,Johor,101
-2026-02-13,Kedah,16
+2026-02-13,Kedah,27
 2026-02-13,Kelantan,15
 2026-02-13,Melaka,14
 2026-02-13,Negeri Sembilan,48
 2026-02-13,Pahang,34
-2026-02-13,Perak,75
+2026-02-13,Perak,99
 2026-02-13,Perlis,7
 2026-02-13,Pulau Pinang,10
 2026-02-13,Sabah,13
@@ -42453,7 +42454,7 @@ date,state,daily
 2026-02-13,W.P. Labuan,0
 2026-02-13,W.P. Putrajaya,1
 2026-02-14,Johor,7
-2026-02-14,Kedah,10
+2026-02-14,Kedah,11
 2026-02-14,Kelantan,16
 2026-02-14,Melaka,1
 2026-02-14,Negeri Sembilan,0
@@ -42485,9 +42486,9 @@ date,state,daily
 2026-02-15,W.P. Labuan,0
 2026-02-15,W.P. Putrajaya,0
 2026-02-16,Johor,5
-2026-02-16,Kedah,0
+2026-02-16,Kedah,2
 2026-02-16,Kelantan,13
-2026-02-16,Melaka,1
+2026-02-16,Melaka,17
 2026-02-16,Negeri Sembilan,0
 2026-02-16,Pahang,0
 2026-02-16,Perak,2
@@ -42516,3 +42517,19 @@ date,state,daily
 2026-02-17,W.P. Kuala Lumpur,0
 2026-02-17,W.P. Labuan,0
 2026-02-17,W.P. Putrajaya,0
+2026-02-18,Johor,1
+2026-02-18,Kedah,0
+2026-02-18,Kelantan,0
+2026-02-18,Melaka,0
+2026-02-18,Negeri Sembilan,0
+2026-02-18,Pahang,0
+2026-02-18,Perak,0
+2026-02-18,Perlis,0
+2026-02-18,Pulau Pinang,0
+2026-02-18,Sabah,0
+2026-02-18,Sarawak,0
+2026-02-18,Selangor,0
+2026-02-18,Terengganu,0
+2026-02-18,W.P. Kuala Lumpur,0
+2026-02-18,W.P. Labuan,0
+2026-02-18,W.P. Putrajaya,0
