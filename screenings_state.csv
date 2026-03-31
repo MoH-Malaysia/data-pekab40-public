@@ -2408,7 +2408,7 @@ date,state,daily
 2025-11-15,Malaysia,613
 2025-11-16,Malaysia,552
 2025-11-17,Malaysia,788
-2025-11-18,Malaysia,879
+2025-11-18,Malaysia,880
 2025-11-19,Malaysia,1139
 2025-11-20,Malaysia,1088
 2025-11-21,Malaysia,765
@@ -2436,7 +2436,7 @@ date,state,daily
 2025-12-13,Malaysia,673
 2025-12-14,Malaysia,606
 2025-12-15,Malaysia,701
-2025-12-16,Malaysia,889
+2025-12-16,Malaysia,891
 2025-12-17,Malaysia,880
 2025-12-18,Malaysia,934
 2025-12-19,Malaysia,849
@@ -2450,7 +2450,7 @@ date,state,daily
 2025-12-27,Malaysia,439
 2025-12-28,Malaysia,405
 2025-12-29,Malaysia,747
-2025-12-30,Malaysia,790
+2025-12-30,Malaysia,791
 2025-12-31,Malaysia,705
 2026-01-01,Malaysia,384
 2026-01-02,Malaysia,455
@@ -2486,7 +2486,7 @@ date,state,daily
 2026-02-01,Malaysia,539
 2026-02-02,Malaysia,656
 2026-02-03,Malaysia,945
-2026-02-04,Malaysia,1167
+2026-02-04,Malaysia,1169
 2026-02-05,Malaysia,1142
 2026-02-06,Malaysia,994
 2026-02-07,Malaysia,640
@@ -2502,7 +2502,7 @@ date,state,daily
 2026-02-17,Malaysia,142
 2026-02-18,Malaysia,134
 2026-02-19,Malaysia,356
-2026-02-20,Malaysia,491
+2026-02-20,Malaysia,492
 2026-02-21,Malaysia,315
 2026-02-22,Malaysia,474
 2026-02-23,Malaysia,719
@@ -2512,7 +2512,7 @@ date,state,daily
 2026-02-27,Malaysia,946
 2026-02-28,Malaysia,429
 2026-03-01,Malaysia,525
-2026-03-02,Malaysia,698
+2026-03-02,Malaysia,697
 2026-03-03,Malaysia,877
 2026-03-04,Malaysia,474
 2026-03-05,Malaysia,925
@@ -2520,26 +2520,27 @@ date,state,daily
 2026-03-07,Malaysia,511
 2026-03-08,Malaysia,463
 2026-03-09,Malaysia,728
-2026-03-10,Malaysia,1092
+2026-03-10,Malaysia,1093
 2026-03-11,Malaysia,1142
 2026-03-12,Malaysia,876
 2026-03-13,Malaysia,959
-2026-03-14,Malaysia,580
+2026-03-14,Malaysia,581
 2026-03-15,Malaysia,564
 2026-03-16,Malaysia,745
 2026-03-17,Malaysia,761
-2026-03-18,Malaysia,660
-2026-03-19,Malaysia,335
-2026-03-20,Malaysia,92
+2026-03-18,Malaysia,663
+2026-03-19,Malaysia,337
+2026-03-20,Malaysia,94
 2026-03-21,Malaysia,0
 2026-03-22,Malaysia,44
-2026-03-23,Malaysia,98
-2026-03-24,Malaysia,303
-2026-03-25,Malaysia,374
-2026-03-26,Malaysia,412
-2026-03-27,Malaysia,117
-2026-03-28,Malaysia,25
-2026-03-29,Malaysia,19
+2026-03-23,Malaysia,101
+2026-03-24,Malaysia,314
+2026-03-25,Malaysia,435
+2026-03-26,Malaysia,494
+2026-03-27,Malaysia,341
+2026-03-28,Malaysia,212
+2026-03-29,Malaysia,224
+2026-03-30,Malaysia,56
 2019-04-15,Johor,0
 2019-04-15,Kedah,3
 2019-04-15,Kelantan,0
@@ -41086,7 +41087,7 @@ date,state,daily
 2025-11-17,W.P. Putrajaya,0
 2025-11-18,Johor,95
 2025-11-18,Kedah,97
-2025-11-18,Kelantan,107
+2025-11-18,Kelantan,108
 2025-11-18,Melaka,29
 2025-11-18,Negeri Sembilan,72
 2025-11-18,Pahang,47
@@ -41534,7 +41535,7 @@ date,state,daily
 2025-12-15,W.P. Putrajaya,4
 2025-12-16,Johor,112
 2025-12-16,Kedah,95
-2025-12-16,Kelantan,54
+2025-12-16,Kelantan,56
 2025-12-16,Melaka,44
 2025-12-16,Negeri Sembilan,42
 2025-12-16,Pahang,55
@@ -41766,7 +41767,7 @@ date,state,daily
 2025-12-30,Perlis,5
 2025-12-30,Pulau Pinang,50
 2025-12-30,Sabah,33
-2025-12-30,Sarawak,35
+2025-12-30,Sarawak,36
 2025-12-30,Selangor,160
 2025-12-30,Terengganu,20
 2025-12-30,W.P. Kuala Lumpur,45
@@ -42334,7 +42335,7 @@ date,state,daily
 2026-02-03,W.P. Putrajaya,1
 2026-02-04,Johor,222
 2026-02-04,Kedah,71
-2026-02-04,Kelantan,94
+2026-02-04,Kelantan,96
 2026-02-04,Melaka,25
 2026-02-04,Negeri Sembilan,43
 2026-02-04,Pahang,66
@@ -42601,7 +42602,7 @@ date,state,daily
 2026-02-20,Sarawak,50
 2026-02-20,Selangor,177
 2026-02-20,Terengganu,1
-2026-02-20,W.P. Kuala Lumpur,15
+2026-02-20,W.P. Kuala Lumpur,16
 2026-02-20,W.P. Labuan,5
 2026-02-20,W.P. Putrajaya,2
 2026-02-21,Johor,13
@@ -42749,7 +42750,7 @@ date,state,daily
 2026-03-01,W.P. Labuan,0
 2026-03-01,W.P. Putrajaya,0
 2026-03-02,Johor,133
-2026-03-02,Kedah,56
+2026-03-02,Kedah,55
 2026-03-02,Kelantan,47
 2026-03-02,Melaka,11
 2026-03-02,Negeri Sembilan,23
@@ -42878,7 +42879,7 @@ date,state,daily
 2026-03-09,W.P. Putrajaya,0
 2026-03-10,Johor,141
 2026-03-10,Kedah,80
-2026-03-10,Kelantan,48
+2026-03-10,Kelantan,49
 2026-03-10,Melaka,35
 2026-03-10,Negeri Sembilan,50
 2026-03-10,Pahang,99
@@ -42940,7 +42941,7 @@ date,state,daily
 2026-03-13,W.P. Kuala Lumpur,26
 2026-03-13,W.P. Labuan,1
 2026-03-13,W.P. Putrajaya,5
-2026-03-14,Johor,40
+2026-03-14,Johor,41
 2026-03-14,Kedah,45
 2026-03-14,Kelantan,26
 2026-03-14,Melaka,5
@@ -43009,12 +43010,12 @@ date,state,daily
 2026-03-18,Kelantan,18
 2026-03-18,Melaka,19
 2026-03-18,Negeri Sembilan,6
-2026-03-18,Pahang,91
+2026-03-18,Pahang,92
 2026-03-18,Perak,47
 2026-03-18,Perlis,1
 2026-03-18,Pulau Pinang,43
-2026-03-18,Sabah,93
-2026-03-18,Sarawak,41
+2026-03-18,Sabah,94
+2026-03-18,Sarawak,42
 2026-03-18,Selangor,109
 2026-03-18,Terengganu,21
 2026-03-18,W.P. Kuala Lumpur,14
@@ -43025,13 +43026,13 @@ date,state,daily
 2026-03-19,Kelantan,2
 2026-03-19,Melaka,4
 2026-03-19,Negeri Sembilan,5
-2026-03-19,Pahang,15
+2026-03-19,Pahang,16
 2026-03-19,Perak,57
 2026-03-19,Perlis,0
 2026-03-19,Pulau Pinang,26
 2026-03-19,Sabah,48
 2026-03-19,Sarawak,28
-2026-03-19,Selangor,80
+2026-03-19,Selangor,81
 2026-03-19,Terengganu,0
 2026-03-19,W.P. Kuala Lumpur,19
 2026-03-19,W.P. Labuan,0
@@ -43045,11 +43046,11 @@ date,state,daily
 2026-03-20,Perak,12
 2026-03-20,Perlis,0
 2026-03-20,Pulau Pinang,5
-2026-03-20,Sabah,14
+2026-03-20,Sabah,15
 2026-03-20,Sarawak,7
 2026-03-20,Selangor,36
 2026-03-20,Terengganu,0
-2026-03-20,W.P. Kuala Lumpur,3
+2026-03-20,W.P. Kuala Lumpur,4
 2026-03-20,W.P. Labuan,0
 2026-03-20,W.P. Putrajaya,0
 2026-03-21,Johor,0
@@ -43084,7 +43085,7 @@ date,state,daily
 2026-03-22,W.P. Kuala Lumpur,5
 2026-03-22,W.P. Labuan,0
 2026-03-22,W.P. Putrajaya,0
-2026-03-23,Johor,3
+2026-03-23,Johor,5
 2026-03-23,Kedah,12
 2026-03-23,Kelantan,4
 2026-03-23,Melaka,3
@@ -43094,21 +43095,21 @@ date,state,daily
 2026-03-23,Perlis,0
 2026-03-23,Pulau Pinang,10
 2026-03-23,Sabah,11
-2026-03-23,Sarawak,14
+2026-03-23,Sarawak,15
 2026-03-23,Selangor,11
 2026-03-23,Terengganu,1
 2026-03-23,W.P. Kuala Lumpur,8
 2026-03-23,W.P. Labuan,0
 2026-03-23,W.P. Putrajaya,0
 2026-03-24,Johor,24
-2026-03-24,Kedah,35
+2026-03-24,Kedah,37
 2026-03-24,Kelantan,23
 2026-03-24,Melaka,13
 2026-03-24,Negeri Sembilan,4
-2026-03-24,Pahang,18
-2026-03-24,Perak,34
+2026-03-24,Pahang,19
+2026-03-24,Perak,36
 2026-03-24,Perlis,1
-2026-03-24,Pulau Pinang,25
+2026-03-24,Pulau Pinang,31
 2026-03-24,Sabah,30
 2026-03-24,Sarawak,36
 2026-03-24,Selangor,36
@@ -43117,82 +43118,98 @@ date,state,daily
 2026-03-24,W.P. Labuan,1
 2026-03-24,W.P. Putrajaya,0
 2026-03-25,Johor,47
-2026-03-25,Kedah,34
-2026-03-25,Kelantan,28
+2026-03-25,Kedah,36
+2026-03-25,Kelantan,30
 2026-03-25,Melaka,14
 2026-03-25,Negeri Sembilan,7
-2026-03-25,Pahang,19
-2026-03-25,Perak,33
+2026-03-25,Pahang,21
+2026-03-25,Perak,40
 2026-03-25,Perlis,2
-2026-03-25,Pulau Pinang,16
-2026-03-25,Sabah,24
+2026-03-25,Pulau Pinang,42
+2026-03-25,Sabah,45
 2026-03-25,Sarawak,43
-2026-03-25,Selangor,73
+2026-03-25,Selangor,74
 2026-03-25,Terengganu,23
 2026-03-25,W.P. Kuala Lumpur,10
 2026-03-25,W.P. Labuan,1
 2026-03-25,W.P. Putrajaya,0
 2026-03-26,Johor,62
-2026-03-26,Kedah,42
-2026-03-26,Kelantan,27
-2026-03-26,Melaka,9
-2026-03-26,Negeri Sembilan,6
-2026-03-26,Pahang,6
-2026-03-26,Perak,57
-2026-03-26,Perlis,0
-2026-03-26,Pulau Pinang,23
-2026-03-26,Sabah,6
+2026-03-26,Kedah,56
+2026-03-26,Kelantan,32
+2026-03-26,Melaka,13
+2026-03-26,Negeri Sembilan,15
+2026-03-26,Pahang,13
+2026-03-26,Perak,61
+2026-03-26,Perlis,4
+2026-03-26,Pulau Pinang,31
+2026-03-26,Sabah,27
 2026-03-26,Sarawak,29
-2026-03-26,Selangor,105
-2026-03-26,Terengganu,16
-2026-03-26,W.P. Kuala Lumpur,24
-2026-03-26,W.P. Labuan,0
+2026-03-26,Selangor,107
+2026-03-26,Terengganu,18
+2026-03-26,W.P. Kuala Lumpur,25
+2026-03-26,W.P. Labuan,1
 2026-03-26,W.P. Putrajaya,0
-2026-03-27,Johor,15
-2026-03-27,Kedah,3
+2026-03-27,Johor,30
+2026-03-27,Kedah,8
 2026-03-27,Kelantan,2
-2026-03-27,Melaka,18
-2026-03-27,Negeri Sembilan,0
-2026-03-27,Pahang,16
-2026-03-27,Perak,16
-2026-03-27,Perlis,1
-2026-03-27,Pulau Pinang,2
-2026-03-27,Sabah,9
-2026-03-27,Sarawak,21
-2026-03-27,Selangor,11
+2026-03-27,Melaka,26
+2026-03-27,Negeri Sembilan,12
+2026-03-27,Pahang,26
+2026-03-27,Perak,43
+2026-03-27,Perlis,2
+2026-03-27,Pulau Pinang,17
+2026-03-27,Sabah,19
+2026-03-27,Sarawak,29
+2026-03-27,Selangor,108
 2026-03-27,Terengganu,1
-2026-03-27,W.P. Kuala Lumpur,1
+2026-03-27,W.P. Kuala Lumpur,16
 2026-03-27,W.P. Labuan,0
-2026-03-27,W.P. Putrajaya,1
-2026-03-28,Johor,1
-2026-03-28,Kedah,0
-2026-03-28,Kelantan,7
-2026-03-28,Melaka,4
-2026-03-28,Negeri Sembilan,0
-2026-03-28,Pahang,0
-2026-03-28,Perak,0
+2026-03-27,W.P. Putrajaya,2
+2026-03-28,Johor,8
+2026-03-28,Kedah,11
+2026-03-28,Kelantan,24
+2026-03-28,Melaka,5
+2026-03-28,Negeri Sembilan,1
+2026-03-28,Pahang,15
+2026-03-28,Perak,13
 2026-03-28,Perlis,0
-2026-03-28,Pulau Pinang,0
+2026-03-28,Pulau Pinang,5
 2026-03-28,Sabah,1
-2026-03-28,Sarawak,0
-2026-03-28,Selangor,2
-2026-03-28,Terengganu,10
-2026-03-28,W.P. Kuala Lumpur,0
+2026-03-28,Sarawak,4
+2026-03-28,Selangor,107
+2026-03-28,Terengganu,12
+2026-03-28,W.P. Kuala Lumpur,6
 2026-03-28,W.P. Labuan,0
 2026-03-28,W.P. Putrajaya,0
-2026-03-29,Johor,1
-2026-03-29,Kedah,10
-2026-03-29,Kelantan,3
+2026-03-29,Johor,7
+2026-03-29,Kedah,27
+2026-03-29,Kelantan,57
 2026-03-29,Melaka,0
 2026-03-29,Negeri Sembilan,0
-2026-03-29,Pahang,0
-2026-03-29,Perak,0
+2026-03-29,Pahang,15
+2026-03-29,Perak,7
 2026-03-29,Perlis,0
 2026-03-29,Pulau Pinang,0
 2026-03-29,Sabah,0
-2026-03-29,Sarawak,4
-2026-03-29,Selangor,0
-2026-03-29,Terengganu,1
-2026-03-29,W.P. Kuala Lumpur,0
+2026-03-29,Sarawak,10
+2026-03-29,Selangor,51
+2026-03-29,Terengganu,29
+2026-03-29,W.P. Kuala Lumpur,21
 2026-03-29,W.P. Labuan,0
 2026-03-29,W.P. Putrajaya,0
+2026-03-30,Johor,10
+2026-03-30,Kedah,10
+2026-03-30,Kelantan,14
+2026-03-30,Melaka,0
+2026-03-30,Negeri Sembilan,0
+2026-03-30,Pahang,8
+2026-03-30,Perak,2
+2026-03-30,Perlis,1
+2026-03-30,Pulau Pinang,0
+2026-03-30,Sabah,0
+2026-03-30,Sarawak,3
+2026-03-30,Selangor,2
+2026-03-30,Terengganu,4
+2026-03-30,W.P. Kuala Lumpur,2
+2026-03-30,W.P. Labuan,0
+2026-03-30,W.P. Putrajaya,0
